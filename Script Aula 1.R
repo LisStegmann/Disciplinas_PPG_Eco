@@ -73,11 +73,6 @@ dados_2<- dados %>% separate(DATA,
 factor(dados_2$ANO)
 
 
-
-
-
-
-
 ####MANIPULANDO E EXPLORANDO DADOS NUMÉRICOS
 #Podemos obversar que colunas com variáveis numéricas estão classificadas como 
 # do tipo "character", ou seja, dados textuais. Porque será? 
@@ -136,6 +131,9 @@ rownames(lista_aves)
 lista_aves_red=cbind(rownames(lista_aves[1:10,]), lista_aves[1:10,]
                      
                      ggplot(lista_aves_red, aes(y =abundancia , x = rownames(lista_aves))) 
+
+#testando alterações
+                     
                      
 
 
