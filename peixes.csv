@@ -1,0 +1,1293 @@
+SITE;MUNICIPALITY;STATE;LAT_Y_POINT;LONG_X_POINT;LAND_USE_surrounding_100m;COL_END_YR;ORDER;FAMILY;GENUS;SPECIES;OCCUR;NUMBER_OF_RECORDS
+MT02;Juruena;MT;-9.08553;-57.80686;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens epae;1;2
+MT03;Juruena;MT;-9.07719;-57.803;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens epae;1;2
+MT07;Juruena;MT;-9.04492;-57.89153;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens epae;1;1
+MT06;Juruena;MT;-9.05692;-57.78003;Forest;2015;Siluriformes;Loricariidae;Ancistrus;Ancistrus verecundus;1;1
+MT09;Juruena;MT;-9.05783;-57.78564;Forest;2015;Siluriformes;Loricariidae;Ancistrus;Ancistrus verecundus;1;1
+MT10;Juruena;MT;-9.03733;-57.76689;Forest;2015;Siluriformes;Loricariidae;Ancistrus;Ancistrus verecundus;1;1
+MT04;Juruena;MT;-9.02458;-57.75397;Forest;2015;Characiformes;Characidae;Astyanax;Astyanax gr. bimaculatus;1;4
+MT06;Juruena;MT;-9.05692;-57.78003;Forest;2015;Characiformes;Characidae;Astyanax;Astyanax gr. bimaculatus;1;9
+MT09;Juruena;MT;-9.05783;-57.78564;Forest;2015;Characiformes;Characidae;Astyanax;Astyanax gr. bimaculatus;1;3
+MT07;Juruena;MT;-9.04492;-57.89153;Forest;2015;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus beebei;1;1
+MT07;Juruena;MT;-9.04492;-57.89153;Forest;2015;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;1
+MT02;Juruena;MT;-9.08553;-57.80686;Forest;2015;Siluriformes;Callichthyidae;Callichthys;Callichthys callichthys;1;1
+MT04;Juruena;MT;-9.02458;-57.75397;Forest;2015;Siluriformes;Callichthyidae;Callichthys;Callichthys callichthys;1;1
+MT10;Juruena;MT;-9.03733;-57.76689;Forest;2015;Siluriformes;Callichthyidae;Callichthys;Callichthys callichthys;1;1
+MT02;Juruena;MT;-9.08553;-57.80686;Forest;2015;Characiformes;Crenuchidae;Characidium;Characidium zebra;1;1
+MT10;Juruena;MT;-9.03733;-57.76689;Forest;2015;Cichliformes;Cichlidae;Crenicichla;Crenicichla inpa;1;1
+MT02;Juruena;MT;-9.08553;-57.80686;Forest;2015;Gymnotiformes; Sternopygidae;Eigenmannia ;Eigenmannia aff. trilineata;1;5
+MT07;Juruena;MT;-9.04492;-57.89153;Forest;2015;Gymnotiformes; Sternopygidae;Eigenmannia ;Eigenmannia aff. trilineata;1;2
+MT02;Juruena;MT;-9.08553;-57.80686;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;19
+MT03;Juruena;MT;-9.07719;-57.803;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;4
+MT04;Juruena;MT;-9.02458;-57.75397;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;12
+MT06;Juruena;MT;-9.05692;-57.78003;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;11
+MT07;Juruena;MT;-9.04492;-57.89153;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;9
+MT09;Juruena;MT;-9.05783;-57.78564;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;17
+MT10;Juruena;MT;-9.03733;-57.76689;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;6
+MT03;Juruena;MT;-9.07719;-57.803;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus carapo;1;1
+MT04;Juruena;MT;-9.02458;-57.75397;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus carapo;1;1
+MT06;Juruena;MT;-9.05692;-57.78003;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus carapo;1;3
+MT07;Juruena;MT;-9.04492;-57.89153;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus carapo;1;5
+MT09;Juruena;MT;-9.05783;-57.78564;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus carapo;1;2
+MT10;Juruena;MT;-9.03733;-57.76689;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus carapo;1;3
+MT02;Juruena;MT;-9.08553;-57.80686;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus sp.1;1;6
+MT03;Juruena;MT;-9.07719;-57.803;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus sp.1;1;1
+MT07;Juruena;MT;-9.04492;-57.89153;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus sp.1;1;23
+MT07;Juruena;MT;-9.04492;-57.89153;Forest;2015;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;2
+MT02;Juruena;MT;-9.08553;-57.80686;Forest;2015;Characiformes;Characidae;Jupiaba;Jupiaba pirana;1;1
+MT04;Juruena;MT;-9.02458;-57.75397;Forest;2015;Characiformes;Characidae;Knodus;Knodus sp.1;1;4
+MT06;Juruena;MT;-9.05692;-57.78003;Forest;2015;Characiformes;Characidae;Knodus;Knodus sp.1;1;21
+MT09;Juruena;MT;-9.05783;-57.78564;Forest;2015;Characiformes;Characidae;Knodus;Knodus sp.1;1;1
+MT10;Juruena;MT;-9.03733;-57.76689;Forest;2015;Characiformes;Characidae;Knodus;Knodus sp.1;1;30
+MT02;Juruena;MT;-9.08553;-57.80686;Forest;2015;Characiformes;Lebiasinidae;Lebiasina;Lebiasina sp1;1;13
+MT04;Juruena;MT;-9.02458;-57.75397;Forest;2015;Characiformes;Lebiasinidae;Lebiasina;Lebiasina sp1;1;3
+MT10;Juruena;MT;-9.03733;-57.76689;Forest;2015;Characiformes;Lebiasinidae;Lebiasina;Lebiasina sp1;1;21
+MT02;Juruena;MT;-9.08553;-57.80686;Forest;2015;Characiformes;Lebiasinidae;Lebiasina;Lebiasina sp2;1;9
+MT04;Juruena;MT;-9.02458;-57.75397;Forest;2015;Characiformes;Lebiasinidae;Lebiasina;Lebiasina sp2;1;4
+MT02;Juruena;MT;-9.08553;-57.80686;Forest;2015;Characiformes;Characidae;Moenkhausia;Moenkhausia oligolepis;1;16
+MT03;Juruena;MT;-9.07719;-57.803;Forest;2015;Characiformes;Characidae;Moenkhausia;Moenkhausia oligolepis;1;1
+MT07;Juruena;MT;-9.04492;-57.89153;Forest;2015;Characiformes;Characidae;Moenkhausia;Moenkhausia oligolepis;1;1
+MT10;Juruena;MT;-9.03733;-57.76689;Forest;2015;Characiformes;Characidae;Moenkhausia;Moenkhausia oligolepis;1;1
+MT03;Juruena;MT;-9.07719;-57.803;Forest;2015;Siluriformes;Heptapteridae;Pimelodella;Pimelodella cristata;1;1
+MT02;Juruena;MT;-9.08553;-57.80686;Forest;2015;Synbranchiformes;Synbranchidae;Synbranchus;Synbranchus marmoratus;1;1
+MT04;Juruena;MT;-9.02458;-57.75397;Forest;2015;Synbranchiformes;Synbranchidae;Synbranchus;Synbranchus marmoratus;1;1
+MT06;Juruena;MT;-9.05692;-57.78003;Forest;2015;Synbranchiformes;Synbranchidae;Synbranchus;Synbranchus marmoratus;1;7
+MT09;Juruena;MT;-9.05783;-57.78564;Forest;2015;Synbranchiformes;Synbranchidae;Synbranchus;Synbranchus marmoratus;1;1
+DCK01;Manaus;AM;-2.93598;-59.95326;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens pallidus;1;5
+DCK02;Manaus;AM;-2.94467;-59.95609;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens pallidus;1;1
+DCK03;Manaus;AM;-2.94514;-59.95856;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens pallidus;1;12
+DCK04;Manaus;AM;-2.94097;-59.93602;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens pallidus;1;12
+DCK05;Manaus;AM;-2.9306;-59.93124;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens pallidus;1;13
+DCK06;Manaus;AM;-2.98905;-59.9564;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens pallidus;1;6
+DCK07;Manaus;AM;-2.98608;-59.93711;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens pallidus;1;11
+DCK08;Manaus;AM;-2.99514;-59.92871;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens pallidus;1;31
+DCK09;Manaus;AM;-2.97711;-59.9525;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens pallidus;1;4
+DCK10;Manaus;AM;-2.97305;-59.94162;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens pallidus;1;9
+DCK05;Manaus;AM;-2.9306;-59.93124;Forest;2015;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides micropus;1;1
+DCK07;Manaus;AM;-2.98608;-59.93711;Forest;2015;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides micropus;1;1
+DCK09;Manaus;AM;-2.97711;-59.9525;Forest;2015;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides micropus;1;2
+DCK01;Manaus;AM;-2.93598;-59.95326;Forest;2015;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides ornatus;1;2
+DCK02;Manaus;AM;-2.94467;-59.95609;Forest;2015;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides ornatus;1;1
+DCK03;Manaus;AM;-2.94514;-59.95856;Forest;2015;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides ornatus;1;4
+DCK06;Manaus;AM;-2.98905;-59.9564;Forest;2015;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides ornatus;1;1
+DCK07;Manaus;AM;-2.98608;-59.93711;Forest;2015;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides ornatus;1;7
+DCK08;Manaus;AM;-2.99514;-59.92871;Forest;2015;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides ornatus;1;2
+DCK09;Manaus;AM;-2.97711;-59.9525;Forest;2015;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides ornatus;1;1
+DCK02;Manaus;AM;-2.94467;-59.95609;Forest;2015;Characiformes;Iguanodectidae;Bryconops;Bryconops cf. caudomaculatus;1;1
+DCK01;Manaus;AM;-2.93598;-59.95326;Forest;2015;Characiformes;Iguanodectidae;Bryconops;Bryconops inpai;1;1
+DCK09;Manaus;AM;-2.97711;-59.9525;Forest;2015;Characiformes;Iguanodectidae;Bryconops;Bryconops sp1;1;9
+DCK09;Manaus;AM;-2.97711;-59.9525;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella nattereri;1;25
+DCK01;Manaus;AM;-2.93598;-59.95326;Forest;2015;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;6
+DCK04;Manaus;AM;-2.94097;-59.93602;Forest;2015;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;6
+DCK05;Manaus;AM;-2.9306;-59.93124;Forest;2015;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;7
+DCK06;Manaus;AM;-2.98905;-59.9564;Forest;2015;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;1
+DCK07;Manaus;AM;-2.98608;-59.93711;Forest;2015;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;1
+DCK09;Manaus;AM;-2.97711;-59.9525;Forest;2015;Siluriformes;Cetopsidae;Denticetopsis;Denticetopsis seducta;1;1
+DCK03;Manaus;AM;-2.94514;-59.95856;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;3
+DCK04;Manaus;AM;-2.94097;-59.93602;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;3
+DCK05;Manaus;AM;-2.9306;-59.93124;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;3
+DCK06;Manaus;AM;-2.98905;-59.9564;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;1
+DCK08;Manaus;AM;-2.99514;-59.92871;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;7
+DCK10;Manaus;AM;-2.97305;-59.94162;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;1
+DCK02;Manaus;AM;-2.94467;-59.95609;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;1
+DCK04;Manaus;AM;-2.94097;-59.93602;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;1
+DCK09;Manaus;AM;-2.97711;-59.9525;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;1
+DCK01;Manaus;AM;-2.93598;-59.95326;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus pedanopterus;1;2
+DCK09;Manaus;AM;-2.97711;-59.9525;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus pedanopterus;1;4
+DCK10;Manaus;AM;-2.97305;-59.94162;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus pedanopterus;1;2
+DCK01;Manaus;AM;-2.93598;-59.95326;Forest;2015;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;3
+DCK03;Manaus;AM;-2.94514;-59.95856;Forest;2015;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;3
+DCK05;Manaus;AM;-2.9306;-59.93124;Forest;2015;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;1
+DCK06;Manaus;AM;-2.98905;-59.9564;Forest;2015;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;1
+DCK07;Manaus;AM;-2.98608;-59.93711;Forest;2015;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;1
+DCK09;Manaus;AM;-2.97711;-59.9525;Forest;2015;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;1
+DCK02;Manaus;AM;-2.94467;-59.95609;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus cf. pretoensis;1;6
+DCK03;Manaus;AM;-2.94514;-59.95856;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus cf. pretoensis;1;18
+DCK06;Manaus;AM;-2.98905;-59.9564;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus cf. pretoensis;1;1
+DCK07;Manaus;AM;-2.98608;-59.93711;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus cf. pretoensis;1;8
+DCK08;Manaus;AM;-2.99514;-59.92871;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus cf. pretoensis;1;11
+DCK10;Manaus;AM;-2.97305;-59.94162;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus cf. pretoensis;1;27
+DCK09;Manaus;AM;-2.97711;-59.9525;Forest;2015;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;1
+DCK10;Manaus;AM;-2.97305;-59.94162;Forest;2015;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;1
+DCK01;Manaus;AM;-2.93598;-59.95326;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon aff. melazonatus;1;1
+DCK02;Manaus;AM;-2.94467;-59.95609;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon aff. melazonatus;1;1
+DCK03;Manaus;AM;-2.94514;-59.95856;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon aff. melazonatus;1;1
+DCK04;Manaus;AM;-2.94097;-59.93602;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon aff. melazonatus;1;4
+DCK05;Manaus;AM;-2.9306;-59.93124;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon aff. melazonatus;1;1
+DCK06;Manaus;AM;-2.98905;-59.9564;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon aff. melazonatus;1;3
+DCK07;Manaus;AM;-2.98608;-59.93711;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon aff. melazonatus;1;4
+DCK08;Manaus;AM;-2.99514;-59.92871;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon aff. melazonatus;1;22
+DCK09;Manaus;AM;-2.97711;-59.9525;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon aff. melazonatus;1;19
+DCK10;Manaus;AM;-2.97305;-59.94162;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon aff. melazonatus;1;11
+DCK02;Manaus;AM;-2.94467;-59.95609;Forest;2015;Characiformes;Crenuchidae;Microcharacidium;Microcharacidium eleotrioides;1;6
+DCK03;Manaus;AM;-2.94514;-59.95856;Forest;2015;Characiformes;Crenuchidae;Microcharacidium;Microcharacidium eleotrioides;1;19
+DCK06;Manaus;AM;-2.98905;-59.9564;Forest;2015;Characiformes;Crenuchidae;Microcharacidium;Microcharacidium eleotrioides;1;30
+DCK07;Manaus;AM;-2.98608;-59.93711;Forest;2015;Characiformes;Crenuchidae;Microcharacidium;Microcharacidium eleotrioides;1;74
+DCK08;Manaus;AM;-2.99514;-59.92871;Forest;2015;Characiformes;Crenuchidae;Microcharacidium;Microcharacidium eleotrioides;1;74
+DCK10;Manaus;AM;-2.97305;-59.94162;Forest;2015;Characiformes;Crenuchidae;Microcharacidium;Microcharacidium eleotrioides;1;63
+DCK06;Manaus;AM;-2.98905;-59.9564;Forest;2015;Characiformes;Lebiasinidae;Nannostomus;Nannostomus marginatus;1;1
+DCK08;Manaus;AM;-2.99514;-59.92871;Forest;2015;Characiformes;Lebiasinidae;Nannostomus;Nannostomus marginatus;1;1
+DCK10;Manaus;AM;-2.97305;-59.94162;Forest;2015;Characiformes;Lebiasinidae;Nannostomus;Nannostomus marginatus;1;1
+DCK06;Manaus;AM;-2.98905;-59.9564;Forest;2015;Characiformes;Crenuchidae;Poecilocharax;Poecilocharax weitzmani;1;65
+DCK07;Manaus;AM;-2.98608;-59.93711;Forest;2015;Characiformes;Crenuchidae;Poecilocharax;Poecilocharax weitzmani;1;21
+DCK09;Manaus;AM;-2.97711;-59.9525;Forest;2015;Characiformes;Crenuchidae;Poecilocharax;Poecilocharax weitzmani;1;1
+DCK09;Manaus;AM;-2.97711;-59.9525;Forest;2015;Siluriformes;Trichomycteridae;Pygidianops;Pygidianops amphioxus;1;17
+DCK01;Manaus;AM;-2.93598;-59.95326;Forest;2015;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina brevis;1;4
+DCK02;Manaus;AM;-2.94467;-59.95609;Forest;2015;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina brevis;1;8
+DCK03;Manaus;AM;-2.94514;-59.95856;Forest;2015;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina brevis;1;17
+DCK04;Manaus;AM;-2.94097;-59.93602;Forest;2015;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina brevis;1;11
+DCK05;Manaus;AM;-2.9306;-59.93124;Forest;2015;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina brevis;1;5
+DCK06;Manaus;AM;-2.98905;-59.9564;Forest;2015;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina brevis;1;10
+DCK07;Manaus;AM;-2.98608;-59.93711;Forest;2015;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina brevis;1;56
+DCK08;Manaus;AM;-2.99514;-59.92871;Forest;2015;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina brevis;1;21
+DCK09;Manaus;AM;-2.97711;-59.9525;Forest;2015;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina brevis;1;18
+DCK10;Manaus;AM;-2.97305;-59.94162;Forest;2015;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina brevis;1;33
+DCK09;Manaus;AM;-2.97711;-59.9525;Forest;2015;Siluriformes;Loricariidae;Rineloricaria;Rineloricaria lanceolata;1;4
+DCK03;Manaus;AM;-2.94514;-59.95856;Forest;2015;Synbranchiformes;Synbranchidae;Synbranchus;Synbranchus marmoratus;1;1
+DCK07;Manaus;AM;-2.98608;-59.93711;Forest;2015;Synbranchiformes;Synbranchidae;Synbranchus;Synbranchus marmoratus;1;2
+DCK08;Manaus;AM;-2.99514;-59.92871;Forest;2015;Synbranchiformes;Synbranchidae;Synbranchus;Synbranchus marmoratus;1;3
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Siluriformes;Doradidae;Acanthodoras;Acanthodoras cataphractus;1;1
+CAX-D01;Melga?o;PA;-2.34256;-51.79069;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;1
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;2
+CAX-D06;Melga?o;PA;-2.28547;-51.80617;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;1
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;1
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;2
+CAX-D16;Melga?o;PA;-2.22394;-51.708;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;1
+CAX-D06;Melga?o;PA;-2.28547;-51.80617;Forest;2015;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;1
+CAX-D01;Melga?o;PA;-2.34256;-51.79069;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. agassizii;1;21
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. agassizii;1;3
+CAX-D06;Melga?o;PA;-2.28547;-51.80617;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. agassizii;1;40
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. agassizii;1;4
+CAX-D09;Melga?o;PA;-2.20158;-51.84381;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. agassizii;1;25
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. agassizii;1;16
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. agassizii;1;1
+CAX-D16;Melga?o;PA;-2.22394;-51.708;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. agassizii;1;209
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;124
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;133
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;39
+CAX-D09;Melga?o;PA;-2.20158;-51.84381;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;22
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;101
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;65
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;14
+CAX-D16;Melga?o;PA;-2.22394;-51.708;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;76
+CAX-D01;Melga?o;PA;-2.34256;-51.79069;Forest;2015;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;2
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;1
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;2
+CAX-D06;Melga?o;PA;-2.28547;-51.80617;Forest;2015;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;1
+CAX-D09;Melga?o;PA;-2.20158;-51.84381;Forest;2015;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;1
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;1
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;1
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;2
+CAX-D16;Melga?o;PA;-2.22394;-51.708;Forest;2015;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;1
+CAX-D01;Melga?o;PA;-2.34256;-51.79069;Forest;2015;Characiformes;Gasteropelecidae;Carnegiella ;Carnegiella strigata;1;170
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Characiformes;Gasteropelecidae;Carnegiella ;Carnegiella strigata;1;131
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Characiformes;Gasteropelecidae;Carnegiella ;Carnegiella strigata;1;19
+CAX-D06;Melga?o;PA;-2.28547;-51.80617;Forest;2015;Characiformes;Gasteropelecidae;Carnegiella ;Carnegiella strigata;1;2
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Characiformes;Gasteropelecidae;Carnegiella ;Carnegiella strigata;1;147
+CAX-D09;Melga?o;PA;-2.20158;-51.84381;Forest;2015;Characiformes;Gasteropelecidae;Carnegiella ;Carnegiella strigata;1;43
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Characiformes;Gasteropelecidae;Carnegiella ;Carnegiella strigata;1;38
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Characiformes;Gasteropelecidae;Carnegiella ;Carnegiella strigata;1;7
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Characiformes;Gasteropelecidae;Carnegiella ;Carnegiella strigata;1;25
+CAX-D16;Melga?o;PA;-2.22394;-51.708;Forest;2015;Characiformes;Gasteropelecidae;Carnegiella ;Carnegiella strigata;1;13
+CAX-D01;Melga?o;PA;-2.34256;-51.79069;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;28
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;246
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;47
+CAX-D06;Melga?o;PA;-2.28547;-51.80617;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;27
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;272
+CAX-D09;Melga?o;PA;-2.20158;-51.84381;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;498
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;186
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;456
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;689
+CAX-D16;Melga?o;PA;-2.22394;-51.708;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;27
+CAX-D01;Melga?o;PA;-2.34256;-51.79069;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella nigrofasciata;1;8
+CAX-D16;Melga?o;PA;-2.22394;-51.708;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella nigrofasciata;1;16
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Cichliformes;Cichlidae;Crenicichla;Crenicichla labrina;1;1
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Cichliformes;Cichlidae;Crenicichla;Crenicichla labrina;1;1
+CAX-D01;Melga?o;PA;-2.34256;-51.79069;Forest;2015;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;30
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;56
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;22
+CAX-D06;Melga?o;PA;-2.28547;-51.80617;Forest;2015;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;4
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;83
+CAX-D09;Melga?o;PA;-2.20158;-51.84381;Forest;2015;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;47
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;15
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;24
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;21
+CAX-D16;Melga?o;PA;-2.22394;-51.708;Forest;2015;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;91
+CAX-D01;Melga?o;PA;-2.34256;-51.79069;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;1
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;1
+CAX-D09;Melga?o;PA;-2.20158;-51.84381;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;1
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;3
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;1
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;2
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Siluriformes;Heptapteridae;Gladioglanis;Gladioglanis conquistador;1;30
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Siluriformes;Heptapteridae;Gladioglanis;Gladioglanis conquistador;1;2
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Siluriformes;Heptapteridae;Gladioglanis;Gladioglanis conquistador;1;8
+CAX-D01;Melga?o;PA;-2.34256;-51.79069;Forest;2015;Characiformes;Acestrorhynchidae;Gnathocharax;Gnathocharax steindachneri;1;1
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Characiformes;Acestrorhynchidae;Gnathocharax;Gnathocharax steindachneri;1;3
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Characiformes;Acestrorhynchidae;Gnathocharax;Gnathocharax steindachneri;1;15
+CAX-D09;Melga?o;PA;-2.20158;-51.84381;Forest;2015;Characiformes;Acestrorhynchidae;Gnathocharax;Gnathocharax steindachneri;1;4
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Characiformes;Acestrorhynchidae;Gnathocharax;Gnathocharax steindachneri;1;2
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys?rondoni;1;1
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys?rondoni;1;3
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys?rondoni;1;5
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coatesi;1;2
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;12
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;12
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;2
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;4
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;7
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;6
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;14
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;6
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;14
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;93
+CAX-D09;Melga?o;PA;-2.20158;-51.84381;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;36
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;2
+CAX-D06;Melga?o;PA;-2.28547;-51.80617;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;2
+CAX-D09;Melga?o;PA;-2.20158;-51.84381;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;1
+CAX-D16;Melga?o;PA;-2.22394;-51.708;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;9
+CAX-D01;Melga?o;PA;-2.34256;-51.79069;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus schmardae;1;69
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus schmardae;1;46
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus schmardae;1;6
+CAX-D06;Melga?o;PA;-2.28547;-51.80617;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus schmardae;1;6
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus schmardae;1;161
+CAX-D09;Melga?o;PA;-2.20158;-51.84381;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus schmardae;1;52
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus schmardae;1;1
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus schmardae;1;4
+CAX-D16;Melga?o;PA;-2.22394;-51.708;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus schmardae;1;14
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;1
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;4
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;1
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;1
+CAX-D16;Melga?o;PA;-2.22394;-51.708;Forest;2015;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;1
+CAX-D01;Melga?o;PA;-2.34256;-51.79069;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;135
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;144
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;24
+CAX-D06;Melga?o;PA;-2.28547;-51.80617;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;1
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;56
+CAX-D09;Melga?o;PA;-2.20158;-51.84381;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;26
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;22
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;21
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;4
+CAX-D16;Melga?o;PA;-2.22394;-51.708;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;19
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus benoneae;1;2
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus benoneae;1;1
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;1
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;2
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;2
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;7
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;1
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;2
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;3
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Cyprinodontiformes;Rivulidae;Laimosemion;Laimosemion strigatus;1;3
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Cyprinodontiformes;Rivulidae;Laimosemion;Laimosemion strigatus;1;16
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Cyprinodontiformes;Rivulidae;Laimosemion;Laimosemion strigatus;1;1
+CAX-D09;Melga?o;PA;-2.20158;-51.84381;Forest;2015;Cyprinodontiformes;Rivulidae;Laimosemion;Laimosemion strigatus;1;3
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Cyprinodontiformes;Rivulidae;Laimosemion;Laimosemion strigatus;1;16
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Cyprinodontiformes;Rivulidae;Laimosemion;Laimosemion strigatus;1;34
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Cyprinodontiformes;Rivulidae;Laimosemion;Laimosemion strigatus;1;30
+CAX-D16;Melga?o;PA;-2.22394;-51.708;Forest;2015;Cyprinodontiformes;Rivulidae;Laimosemion;Laimosemion strigatus;1;9
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Characiformes;Crenuchidae;Microcharacidium;Microcharacidium eleotrioides;1;21
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Characiformes;Crenuchidae;Microcharacidium;Microcharacidium eleotrioides;1;9
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Characiformes;Crenuchidae;Microcharacidium;Microcharacidium eleotrioides;1;33
+CAX-D09;Melga?o;PA;-2.20158;-51.84381;Forest;2015;Characiformes;Crenuchidae;Microcharacidium;Microcharacidium eleotrioides;1;5
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Characiformes;Crenuchidae;Microcharacidium;Microcharacidium eleotrioides;1;1
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Characiformes;Crenuchidae;Microcharacidium;Microcharacidium eleotrioides;1;14
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Characiformes;Crenuchidae;Microcharacidium;Microcharacidium eleotrioides;1;14
+CAX-D16;Melga?o;PA;-2.22394;-51.708;Forest;2015;Characiformes;Crenuchidae;Microcharacidium;Microcharacidium eleotrioides;1;8
+CAX-D16;Melga?o;PA;-2.22394;-51.708;Forest;2015;Perciformes;Eleotridae;Microphilypnus;Microphilypnus ternetzi;1;2
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Gymnotiformes; Hypopomidae;Microsternarchus;Microsternarchus cf. bilineatus;1;1
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Gymnotiformes; Hypopomidae;Microsternarchus;Microsternarchus cf. bilineatus;1;2
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Gymnotiformes; Hypopomidae;Microsternarchus;Microsternarchus cf. bilineatus;1;5
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Perciformes;Polycentridae;Monocirrhus;Monocirrhus polyacanthus;1;1
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Perciformes;Polycentridae;Monocirrhus;Monocirrhus polyacanthus;1;1
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Perciformes;Polycentridae;Monocirrhus;Monocirrhus polyacanthus;1;2
+CAX-D01;Melga?o;PA;-2.34256;-51.79069;Forest;2015;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;22
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;28
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;63
+CAX-D06;Melga?o;PA;-2.28547;-51.80617;Forest;2015;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;24
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;13
+CAX-D09;Melga?o;PA;-2.20158;-51.84381;Forest;2015;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;39
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;54
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;97
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;41
+CAX-D16;Melga?o;PA;-2.22394;-51.708;Forest;2015;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;51
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Characiformes;Lebiasinidae;Nannostomus;Nannostomus eques;1;1
+CAX-D09;Melga?o;PA;-2.20158;-51.84381;Forest;2015;Characiformes;Lebiasinidae;Nannostomus;Nannostomus eques;1;14
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Characiformes;Lebiasinidae;Nannostomus;Nannostomus trifasciatus;1;25
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Characiformes;Lebiasinidae;Nannostomus;Nannostomus trifasciatus;1;2
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Characiformes;Lebiasinidae;Nannostomus;Nannostomus trifasciatus;1;4
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Siluriformes;Doradidae;Physopyxis;Physopyxis ananas;1;43
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Siluriformes;Doradidae;Physopyxis;Physopyxis ananas;1;21
+CAX-D09;Melga?o;PA;-2.20158;-51.84381;Forest;2015;Siluriformes;Doradidae;Physopyxis;Physopyxis ananas;1;6
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Siluriformes;Doradidae;Physopyxis;Physopyxis ananas;1;7
+CAX-D14;Melga?o;PA;-2.65222;-52.03339;Forest;2015;Siluriformes;Doradidae;Physopyxis;Physopyxis ananas;1;36
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Siluriformes;Doradidae;Physopyxis;Physopyxis ananas;1;19
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Beloniformes;Belonidae;Potamorrhaphis;Potamorrhaphis guianensis;1;1
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Characiformes;Characidae;Priocharax;Priocharax sp1;1;4
+CAX-D02;Melga?o;PA;-2.16736;-51.75414;Forest;2015;Characiformes;Characidae;Pristella;Pristella maxillaris;1;1
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Characiformes;Characidae;Pristella;Pristella maxillaris;1;1
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Characiformes;Characidae;Pristella;Pristella maxillaris;1;1
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina sp1;1;1
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina sp1;1;1
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Gymnotiformes;Hypopomidae;Steatogenys;Steatogenys elegans;1;1
+CAX-D06;Melga?o;PA;-2.28547;-51.80617;Forest;2015;Synbranchiformes;Synbranchidae;Synbranchus;Synbranchus marmoratus;1;1
+CAX-D08;Melga?o;PA;-2.14514;-51.79328;Forest;2015;Synbranchiformes;Synbranchidae;Synbranchus;Synbranchus marmoratus;1;1
+CAX-D10;Melga?o;PA;-2.23469;-51.89803;Forest;2015;Synbranchiformes;Synbranchidae;Synbranchus;Synbranchus marmoratus;1;1
+CAX-D15;Melga?o;PA;-2.59322;-52.04217;Forest;2015;Siluriformes;Auchenipteridae;Tetranematichthys;Tetranematichthys wallacei;1;1
+CAX-D03;Melga?o;PA;-2.20161;-51.72461;Forest;2015;Siluriformes;Trichomycteridae;Trichomycterus;Trichomycterus hasemani  ;1;1
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. agassizii;1;56
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. agassizii;1;80
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. agassizii;1;25
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. agassizii;1;88
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;184
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;73
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;200
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;138
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Beloniformes;Belonidae;Belonion;Belonion sp.;1;1
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus beebei;1;3
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus beebei;1;3
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;2
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;1
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;1
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Siluriformes;Aspredinidae;Bunocephalus;Bunocephalus sp1;1;1
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Siluriformes;Aspredinidae;Bunocephalus;Bunocephalus sp1;1;4
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Siluriformes;Callichthyidae;Callichthys;Carnegiella marthae;1;1
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Characiformes;Gasteropelecidae;Carnegiella ;Carnegiella strigata;1;4
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Characiformes;Gasteropelecidae;Carnegiella ;Carnegiella strigata;1;2
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Characiformes;Gasteropelecidae;Carnegiella ;Carnegiella strigata;1;2
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella callolepis;1;154
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella callolepis;1;338
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella callolepis;1;30
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella callolepis;1;136
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella nattereri;1;95
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella nattereri;1;6
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Cichliformes;Cichlidae;Crenicichla;Crenicichla regani;1;1
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Cichliformes;Cichlidae;Crenicichla;Crenicichla regani;1;1
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Characiformes;Curimatidae;Curimatopsis;Curimatopsis crypticus;1;2
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Characiformes;Curimatidae;Curimatopsis;Curimatopsis crypticus;1;9
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Characiformes;Curimatidae;Curimatopsis;Curimatopsis crypticus;1;8
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Characiformes;Crenuchidae;Elachocharax;Elachocharax pulcher;1;551
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Characiformes;Crenuchidae;Elachocharax;Elachocharax pulcher;1;189
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Characiformes;Crenuchidae;Elachocharax;Elachocharax pulcher;1;414
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Characiformes;Crenuchidae;Elachocharax;Elachocharax pulcher;1;703
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;1
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Cyprinodontiformes;Poecilliidae;Fluviphylax;Fluviphylax sp1;1;10
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Characiformes;Acestrorhynchidae;Gnathocharax;Gnathocharax steindachneri;1;1
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Characiformes;Acestrorhynchidae;Gnathocharax;Gnathocharax steindachneri;1;1
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Characiformes;Acestrorhynchidae;Gnathocharax;Gnathocharax steindachneri;1;10
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Characiformes;Acestrorhynchidae;Gnathocharax;Gnathocharax steindachneri;1;1
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus aff. jonasi;1;2
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus aff. jonasi;1;1
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus aff. jonasi;1;4
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;58
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;79
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;56
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;126
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;115
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;144
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;224
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;138
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;1
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;3
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;4
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon aff. troemnerus;1;1
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon copelandi;1;1
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon copelandi;1;25
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon copelandi;1;3
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;1
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;165
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;109
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;160
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;229
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Siluriformes;Trichomycteridae;Ituglanis;Ituglanis amazonicus;1;1
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Cyprinodontiformes;Rivulidae;Laimosemion;Laimosemion strigatus;1;5
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Cyprinodontiformes;Rivulidae;Laimosemion;Laimosemion strigatus;1;3
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Cyprinodontiformes;Rivulidae;Laimosemion;Laimosemion strigatus;1;1
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Cyprinodontiformes;Rivulidae;Laimosemion;Laimosemion strigatus;1;2
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Perciformes;Eleotridae;Leptophilypnion;Leptophilypnion pusillus;1;12
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Perciformes;Eleotridae;Leptophilypnion;Leptophilypnion pusillus;1;1
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Perciformes;Eleotridae;Leptophilypnion;Leptophilypnion pusillus;1;9
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Siluriformes;Callichthyidae;Megalechis;Megalechis picta;1;3
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Siluriformes;Pseudopimelodidae;Microglanis;Microglanis poecilus;1;1
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Perciformes;Eleotridae;Microphilypnus;Microphilypnus ternetzi;1;7
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Gymnotiformes; Hypopomidae;Microsternarchus;Microsternarchus aff. bilineatus;1;33
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Gymnotiformes; Hypopomidae;Microsternarchus;Microsternarchus aff. bilineatus;1;1
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Gymnotiformes; Hypopomidae;Microsternarchus;Microsternarchus aff. bilineatus;1;23
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Gymnotiformes; Hypopomidae;Microsternarchus;Microsternarchus aff. bilineatus;1;32
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Characiformes;Characidae;Moenkhausia;Moenkhausia oligolepis;1;1
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Characiformes;Characidae;Moenkhausia;Moenkhausia oligolepis;1;1
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Perciformes;Polycentridae;Monocirrhus;Monocirrhus polyacanthus;1;1
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Characiformes;Lebiasinidae;Nannostomus;Nannostomus digrammus;1;121
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Characiformes;Lebiasinidae;Nannostomus;Nannostomus digrammus;1;122
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Characiformes;Lebiasinidae;Nannostomus;Nannostomus digrammus;1;112
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Characiformes;Lebiasinidae;Nannostomus;Nannostomus digrammus;1;1
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Characiformes;Lebiasinidae;Nannostomus;Nannostomus eques;1;23
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Characiformes;Lebiasinidae;Nannostomus;Nannostomus eques;1;4
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Characiformes;Lebiasinidae;Nannostomus;Nannostomus eques;1;5
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Characiformes;Characidae;Phenacogaster;Phenacogaster gr. pectinatus;1;1
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Characiformes;Characidae;Phenacogaster;Phenacogaster gr. pectinatus;1;1
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Siluriformes;Doradidae;Physopyxis;Physopyxis ananas;1;22
+FTB02;Oriximin?;PA;-1.10131;-56.43166;Forest;2015;Siluriformes;Doradidae;Physopyxis;Physopyxis ananas;1;5
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Siluriformes;Doradidae;Physopyxis;Physopyxis ananas;1;35
+FTB04;Oriximin?;PA;-1.13009;-56.41578;Forest;2015;Siluriformes;Doradidae;Physopyxis;Physopyxis ananas;1;111
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Characiformes;Characidae;Priocharax;Priocharax pygmaeus;1;1
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Characiformes;Characidae;Priocharax;Priocharax pygmaeus;1;18
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Siluriformes;Doradidae;Scorpiodoras;Scorpiodoras calderonensis;1;1
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Siluriformes;Doradidae;Scorpiodoras;Scorpiodoras calderonensis;1;1
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Synbranchiformes;Synbranchidae;Synbranchus;Synbranchus marmoratus;1;3
+FTB01;Oriximin?;PA;-1.12641;-56.33261;Forest;2015;Siluriformes;Trichomycteridae;Tridentopsis;Tridentopsis sp1;1;2
+FTB03;Oriximin?;PA;-1.11789;-56.42475;Forest;2015;Siluriformes;Trichomycteridae;Tridentopsis;Tridentopsis sp1;1;10
+TPJ03;Santar?m;PA;-2.8342;-55.00905;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens pallidus;1;10
+TPJ04;Santar?m;PA;-2.84279;-54.99747;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens pallidus;1;2
+TPJ05;Santar?m;PA;-2.83927;-55.00344;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens pallidus;1;1
+TPJ08;Santar?m;PA;-3.04941;-55.0029;Forest;2015;Cichliformes;Cichlidae;Aequidens;Aequidens pallidus;1;4
+TPJ02;Santar?m;PA;-3.20269;-55.12624;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. agassizii;1;4
+TPJ08;Santar?m;PA;-3.04941;-55.0029;Forest;2015;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;88
+TPJ02;Santar?m;PA;-3.20269;-55.12624;Forest;2015;Characiformes;Iguanodectidae;Bryconops;Bryconops munduruku;1;4
+TPJ02;Santar?m;PA;-3.20269;-55.12624;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella nattereri;1;1
+TPJ02;Santar?m;PA;-3.20269;-55.12624;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella nigrofasciata;1;20
+TPJ03;Santar?m;PA;-2.8342;-55.00905;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella nigrofasciata;1;2
+TPJ04;Santar?m;PA;-2.84279;-54.99747;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella nigrofasciata;1;1
+TPJ05;Santar?m;PA;-2.83927;-55.00344;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella nigrofasciata;1;1
+TPJ06;Santar?m;PA;-3.14579;-55.11666;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella nigrofasciata;1;22
+TPJ07;Santar?m;PA;-3.13715;-55.10649;Forest;2015;Characiformes;Lebiasinidae;Copella;Copella nigrofasciata;1;23
+TPJ08;Santar?m;PA;-3.04941;-55.0029;Forest;2015;Cichliformes;Cichlidae;Crenicichla;Crenicichla inpa;1;6
+TPJ02;Santar?m;PA;-3.20269;-55.12624;Forest;2015;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;1
+TPJ02;Santar?m;PA;-3.20269;-55.12624;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;1
+TPJ03;Santar?m;PA;-2.8342;-55.00905;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;1
+TPJ06;Santar?m;PA;-3.14579;-55.11666;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;3
+TPJ08;Santar?m;PA;-3.04941;-55.0029;Forest;2015;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;2
+TPJ02;Santar?m;PA;-3.20269;-55.12624;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus carapo;1;1
+TPJ02;Santar?m;PA;-3.20269;-55.12624;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus cf. anguillaris;1;2
+TPJ03;Santar?m;PA;-2.8342;-55.00905;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus cf. anguillaris;1;6
+TPJ04;Santar?m;PA;-2.84279;-54.99747;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus cf. anguillaris;1;1
+TPJ07;Santar?m;PA;-3.13715;-55.10649;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus cf. anguillaris;1;2
+TPJ08;Santar?m;PA;-3.04941;-55.0029;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus cf. anguillaris;1;1
+TPJ08;Santar?m;PA;-3.04941;-55.0029;Forest;2015;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;2
+TPJ02;Santar?m;PA;-3.20269;-55.12624;Forest;2015;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;14
+TPJ03;Santar?m;PA;-2.8342;-55.00905;Forest;2015;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;13
+TPJ04;Santar?m;PA;-2.84279;-54.99747;Forest;2015;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;9
+TPJ05;Santar?m;PA;-2.83927;-55.00344;Forest;2015;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;2
+TPJ06;Santar?m;PA;-3.14579;-55.11666;Forest;2015;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;13
+TPJ07;Santar?m;PA;-3.13715;-55.10649;Forest;2015;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;6
+TPJ08;Santar?m;PA;-3.04941;-55.0029;Forest;2015;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;2
+TPJ08;Santar?m;PA;-3.04941;-55.0029;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;25
+TPJ02;Santar?m;PA;-3.20269;-55.12624;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus schmardae;1;1
+TPJ07;Santar?m;PA;-3.13715;-55.10649;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus schmardae;1;15
+TPJ08;Santar?m;PA;-3.04941;-55.0029;Forest;2015;Characiformes;Characidae;Hemigrammus;Hemigrammus sp.2;1;48
+TPJ08;Santar?m;PA;-3.04941;-55.0029;Forest;2015;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;5
+TPJ03;Santar?m;PA;-2.8342;-55.00905;Forest;2015;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;9
+TPJ04;Santar?m;PA;-2.84279;-54.99747;Forest;2015;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes variatus;1;3
+TPJ05;Santar?m;PA;-2.83927;-55.00344;Forest;2015;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes variatus;1;7
+TPJ08;Santar?m;PA;-3.04941;-55.0029;Forest;2015;Siluriformes;Trichomycteridae;Ituglanis;Ituglanis amazonicus;1;1
+TPJ03;Santar?m;PA;-2.8342;-55.00905;Forest;2015;Cyprinodontiformes;Rivulidae;Laimosemion;Laimosemion cf. dibaphus;1;50
+TPJ04;Santar?m;PA;-2.84279;-54.99747;Forest;2015;Cyprinodontiformes;Rivulidae;Laimosemion;Laimosemion cf. dibaphus;1;33
+TPJ05;Santar?m;PA;-2.83927;-55.00344;Forest;2015;Cyprinodontiformes;Rivulidae;Laimosemion;Laimosemion cf. dibaphus;1;41
+TPJ06;Santar?m;PA;-3.14579;-55.11666;Forest;2015;Cyprinodontiformes;Rivulidae;Melanorivulus;Melanorivulus cf. modestus;1;41
+TPJ07;Santar?m;PA;-3.13715;-55.10649;Forest;2015;Cyprinodontiformes;Rivulidae;Melanorivulus;Melanorivulus cf. modestus;1;36
+TPJ08;Santar?m;PA;-3.04941;-55.0029;Forest;2015;Cyprinodontiformes;Rivulidae;Melanorivulus;Melanorivulus cf. modestus;1;2
+TPJ08;Santar?m;PA;-3.04941;-55.0029;Forest;2015;Characiformes;Characidae;Moenkhausia;Moenkhausia collettii;1;40
+TPJ06;Santar?m;PA;-3.14579;-55.11666;Forest;2015;Synbranchiformes;Synbranchidae;Synbranchus;Synbranchus marmoratus;1;1
+TPJ08;Santar?m;PA;-3.04941;-55.0029;Forest;2015;Synbranchiformes;Synbranchidae;Synbranchus;Synbranchus marmoratus;1;1
+CNV05;Paragominas;PA;-2.96445;-47.73679;Logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;62
+CNV06;Paragominas;PA;-3.02065;-47.77956;Logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;17
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;23
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;15
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;16
+CNV12;Paragominas;PA;-3.17981;-47.76374;Logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;3
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;4
+CNV16;Paragominas;PA;-3.00472;-47.74602;Logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;19
+IFTREF10;Paragominas;PA;-3.72741;-48.48464;Forest;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;26
+IFTREF2;Paragominas;PA;-3.73216;-48.28948;Forest;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;23
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;3
+IFTREF7;Paragominas;PA;-3.69696;-48.46444;Forest;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;1
+IFTREF8;Paragominas;PA;-3.71111;-48.47323;Forest;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;4
+REF04;Paragominas;PA;-3.59157;-48.60641;Logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;2
+CNV05;Paragominas;PA;-2.96445;-47.73679;Logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;3
+CNV06;Paragominas;PA;-3.02065;-47.77956;Logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;9
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;1
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;4
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;7
+CNV12;Paragominas;PA;-3.17981;-47.76374;Logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;4
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;7
+CNV16;Paragominas;PA;-3.00472;-47.74602;Logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;15
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;11
+IFTREF6;Paragominas;PA;-3.69891;-48.46499;Forest;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;4
+IFTREF7;Paragominas;PA;-3.69696;-48.46444;Forest;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;7
+IFTREF8;Paragominas;PA;-3.71111;-48.47323;Forest;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;4
+REF04;Paragominas;PA;-3.59157;-48.60641;Logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;2
+CNV06;Paragominas;PA;-3.02065;-47.77956;Logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma?agassizii;1;12
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma?agassizii;1;1
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma?agassizii;1;4
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma?agassizii;1;9
+CNV12;Paragominas;PA;-3.17981;-47.76374;Logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma?agassizii;1;22
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma?agassizii;1;7
+CNV16;Paragominas;PA;-3.00472;-47.74602;Logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma?agassizii;1;6
+CNV06;Paragominas;PA;-3.02065;-47.77956;Logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;4
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;127
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;2
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;58
+IFTREF10;Paragominas;PA;-3.72741;-48.48464;Forest;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;47
+IFTREF2;Paragominas;PA;-3.73216;-48.28948;Forest;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;29
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;107
+IFTREF7;Paragominas;PA;-3.69696;-48.46444;Forest;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;46
+IFTREF8;Paragominas;PA;-3.71111;-48.47323;Forest;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;53
+REF04;Paragominas;PA;-3.59157;-48.60641;Logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;12
+CNV06;Paragominas;PA;-3.02065;-47.77956;Logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus beebei;1;7
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus beebei;1;2
+IFTREF2;Paragominas;PA;-3.73216;-48.28948;Forest;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus beebei;1;10
+CNV05;Paragominas;PA;-2.96445;-47.73679;Logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;1
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;2
+CNV12;Paragominas;PA;-3.17981;-47.76374;Logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;13
+CNV16;Paragominas;PA;-3.00472;-47.74602;Logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;6
+CNV06;Paragominas;PA;-3.02065;-47.77956;Logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.2;1;8
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.2;1;3
+CNV12;Paragominas;PA;-3.17981;-47.76374;Logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.2;1;8
+CNV16;Paragominas;PA;-3.00472;-47.74602;Logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.2;1;2
+IFTREF2;Paragominas;PA;-3.73216;-48.28948;Forest;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.2;1;14
+IFTREF6;Paragominas;PA;-3.69891;-48.46499;Forest;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.2;1;33
+REF04;Paragominas;PA;-3.59157;-48.60641;Logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.2;1;27
+CNV06;Paragominas;PA;-3.02065;-47.77956;Logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.3;1;1
+IFTREF10;Paragominas;PA;-3.72741;-48.48464;Forest;2013;Siluriformes;Callichthyidae;Callichthys;Callichthys callichthys;1;1
+IFTREF6;Paragominas;PA;-3.69891;-48.46499;Forest;2013;Siluriformes;Callichthyidae;Callichthys;Callichthys callichthys;1;1
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Characiformes;Gasteropelecidae;Carnegiella ;Carnegiella strigata;1;1
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Characiformes;Crenuchidae;Characidium;Characidium cf. etheostoma;1;6
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Characiformes;Crenuchidae;Characidium;Characidium cf. etheostoma;1;7
+IFTREF7;Paragominas;PA;-3.69696;-48.46444;Forest;2013;Characiformes;Crenuchidae;Characidium;Characidium cf. etheostoma;1;1
+IFTREF8;Paragominas;PA;-3.71111;-48.47323;Forest;2013;Characiformes;Crenuchidae;Characidium;Characidium cf. etheostoma;1;4
+REF04;Paragominas;PA;-3.59157;-48.60641;Logging;2013;Characiformes;Crenuchidae;Characidium;Characidium cf. etheostoma;1;1
+CNV05;Paragominas;PA;-2.96445;-47.73679;Logging;2013;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;124
+CNV06;Paragominas;PA;-3.02065;-47.77956;Logging;2013;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;60
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;38
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;81
+CNV12;Paragominas;PA;-3.17981;-47.76374;Logging;2013;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;80
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;40
+CNV16;Paragominas;PA;-3.00472;-47.74602;Logging;2013;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;117
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Cichliformes;Cichlidae;Crenicichla;Crenicichla gr. saxatilis;1;10
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Cichliformes;Cichlidae;Crenicichla;Crenicichla gr. saxatilis;1;2
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Cichliformes;Cichlidae;Crenicichla;Crenicichla gr. saxatilis;1;4
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Cichliformes;Cichlidae;Crenicichla;Crenicichla gr. saxatilis;1;14
+IFTREF7;Paragominas;PA;-3.69696;-48.46444;Forest;2013;Cichliformes;Cichlidae;Crenicichla;Crenicichla gr. saxatilis;1;1
+IFTREF8;Paragominas;PA;-3.71111;-48.47323;Forest;2013;Cichliformes;Cichlidae;Crenicichla;Crenicichla gr. saxatilis;1;12
+CNV05;Paragominas;PA;-2.96445;-47.73679;Logging;2013;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;16
+CNV06;Paragominas;PA;-3.02065;-47.77956;Logging;2013;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;60
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;23
+CNV12;Paragominas;PA;-3.17981;-47.76374;Logging;2013;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;9
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;6
+CNV16;Paragominas;PA;-3.00472;-47.74602;Logging;2013;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;31
+CNV05;Paragominas;PA;-2.96445;-47.73679;Logging;2013;Characiformes;Curimatidae;Curimatopsis;Curimatopsis crypticus;1;17
+CNV12;Paragominas;PA;-3.17981;-47.76374;Logging;2013;Characiformes;Curimatidae;Curimatopsis;Curimatopsis crypticus;1;1
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Siluriformes;Cetopsidae;Denticetopsis;Denticetopsis epa;1;2
+IFTREF7;Paragominas;PA;-3.69696;-48.46444;Forest;2013;Siluriformes;Cetopsidae;Denticetopsis;Denticetopsis epa;1;3
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Gymnotiformes; Sternopygidae;Eigenmannia ;Eigenmannia sp.;1;2
+CNV06;Paragominas;PA;-3.02065;-47.77956;Logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;20
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;3
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;15
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;6
+CNV12;Paragominas;PA;-3.17981;-47.76374;Logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;18
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;15
+CNV16;Paragominas;PA;-3.00472;-47.74602;Logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;3
+IFTREF10;Paragominas;PA;-3.72741;-48.48464;Forest;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;25
+IFTREF2;Paragominas;PA;-3.73216;-48.28948;Forest;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;12
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;3
+IFTREF6;Paragominas;PA;-3.69891;-48.46499;Forest;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;27
+IFTREF7;Paragominas;PA;-3.69696;-48.46444;Forest;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;6
+IFTREF8;Paragominas;PA;-3.71111;-48.47323;Forest;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;14
+REF04;Paragominas;PA;-3.59157;-48.60641;Logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;16
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Siluriformes;Loricariidae;Farlowella;Farlowella amazonum;1;6
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Siluriformes;Heptapteridae;Gladioglanis;Gladioglanis conquistador;1;1
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys petiti;1;76
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys petiti;1;6
+CNV12;Paragominas;PA;-3.17981;-47.76374;Logging;2013;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys petiti;1;1
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys petiti;1;41
+IFTREF7;Paragominas;PA;-3.69696;-48.46444;Forest;2013;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys petiti;1;27
+IFTREF8;Paragominas;PA;-3.71111;-48.47323;Forest;2013;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys petiti;1;25
+REF04;Paragominas;PA;-3.59157;-48.60641;Logging;2013;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys petiti;1;2
+CNV05;Paragominas;PA;-2.96445;-47.73679;Logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. carapo;1;1
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. carapo;1;1
+CNV16;Paragominas;PA;-3.00472;-47.74602;Logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. carapo;1;1
+CNV06;Paragominas;PA;-3.02065;-47.77956;Logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;1
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;1
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;1
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;10
+CNV12;Paragominas;PA;-3.17981;-47.76374;Logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;5
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;11
+IFTREF10;Paragominas;PA;-3.72741;-48.48464;Forest;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;4
+IFTREF2;Paragominas;PA;-3.73216;-48.28948;Forest;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;2
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;15
+IFTREF7;Paragominas;PA;-3.69696;-48.46444;Forest;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;9
+IFTREF8;Paragominas;PA;-3.71111;-48.47323;Forest;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;11
+REF04;Paragominas;PA;-3.59157;-48.60641;Logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;3
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;6
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;7
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;10
+IFTREF10;Paragominas;PA;-3.72741;-48.48464;Forest;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;7
+IFTREF7;Paragominas;PA;-3.69696;-48.46444;Forest;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;9
+IFTREF8;Paragominas;PA;-3.71111;-48.47323;Forest;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;10
+CNV06;Paragominas;PA;-3.02065;-47.77956;Logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;5
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;5
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;16
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;3
+CNV12;Paragominas;PA;-3.17981;-47.76374;Logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;14
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;8
+CNV16;Paragominas;PA;-3.00472;-47.74602;Logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;1
+IFTREF10;Paragominas;PA;-3.72741;-48.48464;Forest;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;2
+IFTREF2;Paragominas;PA;-3.73216;-48.28948;Forest;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;11
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;13
+IFTREF7;Paragominas;PA;-3.69696;-48.46444;Forest;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;8
+IFTREF8;Paragominas;PA;-3.71111;-48.47323;Forest;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;25
+REF04;Paragominas;PA;-3.59157;-48.60641;Logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;23
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;89
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;1
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;50
+CNV16;Paragominas;PA;-3.00472;-47.74602;Logging;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;8
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;74
+IFTREF7;Paragominas;PA;-3.69696;-48.46444;Forest;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;2
+IFTREF8;Paragominas;PA;-3.71111;-48.47323;Forest;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;7
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;15
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;2
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;11
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;18
+CNV16;Paragominas;PA;-3.00472;-47.74602;Logging;2013;Characiformes;Erythrinidae;Hoplerythrinus;Hoplerythrinus unitaeniatus;1;1
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;3
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;1
+IFTREF10;Paragominas;PA;-3.72741;-48.48464;Forest;2013;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;3
+IFTREF2;Paragominas;PA;-3.73216;-48.28948;Forest;2013;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;1
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;1
+IFTREF6;Paragominas;PA;-3.69891;-48.46499;Forest;2013;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;4
+CNV05;Paragominas;PA;-2.96445;-47.73679;Logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;422
+CNV06;Paragominas;PA;-3.02065;-47.77956;Logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;453
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;4
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;112
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;82
+CNV12;Paragominas;PA;-3.17981;-47.76374;Logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;416
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;71
+CNV16;Paragominas;PA;-3.00472;-47.74602;Logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;607
+IFTREF10;Paragominas;PA;-3.72741;-48.48464;Forest;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;547
+IFTREF2;Paragominas;PA;-3.73216;-48.28948;Forest;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;222
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;101
+IFTREF6;Paragominas;PA;-3.69891;-48.46499;Forest;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;426
+IFTREF7;Paragominas;PA;-3.69696;-48.46444;Forest;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;12
+IFTREF8;Paragominas;PA;-3.71111;-48.47323;Forest;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;63
+REF04;Paragominas;PA;-3.59157;-48.60641;Logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;121
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;21
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;32
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;2
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;72
+IFTREF7;Paragominas;PA;-3.69696;-48.46444;Forest;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;63
+IFTREF8;Paragominas;PA;-3.71111;-48.47323;Forest;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;39
+REF04;Paragominas;PA;-3.59157;-48.60641;Logging;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;6
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Siluriformes;Trichomycteridae;Ituglanis;Ituglanis amazonicus;1;8
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Siluriformes;Trichomycteridae;Ituglanis;Ituglanis amazonicus;1;4
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Siluriformes;Trichomycteridae;Ituglanis;Ituglanis amazonicus;1;17
+IFTREF10;Paragominas;PA;-3.72741;-48.48464;Forest;2013;Siluriformes;Trichomycteridae;Ituglanis;Ituglanis amazonicus;1;2
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Siluriformes;Trichomycteridae;Ituglanis;Ituglanis amazonicus;1;2
+IFTREF7;Paragominas;PA;-3.69696;-48.46444;Forest;2013;Siluriformes;Trichomycteridae;Ituglanis;Ituglanis amazonicus;1;1
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Siluriformes;Callichthyidae;Megalechis;Megalechis picta;1;1
+CNV06;Paragominas;PA;-3.02065;-47.77956;Logging;2013;Siluriformes;Callichthyidae;Megalechis;Megalechis thoracata;1;1
+CNV05;Paragominas;PA;-2.96445;-47.73679;Logging;2013;Characiformes;Crenuchidae;Microcharacidium ;Microcharacidium weitzmani;1;11
+CNV06;Paragominas;PA;-3.02065;-47.77956;Logging;2013;Characiformes;Crenuchidae;Microcharacidium ;Microcharacidium weitzmani;1;85
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Characiformes;Crenuchidae;Microcharacidium ;Microcharacidium weitzmani;1;29
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Characiformes;Crenuchidae;Microcharacidium ;Microcharacidium weitzmani;1;26
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Characiformes;Crenuchidae;Microcharacidium ;Microcharacidium weitzmani;1;188
+CNV12;Paragominas;PA;-3.17981;-47.76374;Logging;2013;Characiformes;Crenuchidae;Microcharacidium ;Microcharacidium weitzmani;1;63
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Characiformes;Crenuchidae;Microcharacidium ;Microcharacidium weitzmani;1;95
+CNV16;Paragominas;PA;-3.00472;-47.74602;Logging;2013;Characiformes;Crenuchidae;Microcharacidium ;Microcharacidium weitzmani;1;58
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Characiformes;Crenuchidae;Microcharacidium ;Microcharacidium weitzmani;1;13
+IFTREF7;Paragominas;PA;-3.69696;-48.46444;Forest;2013;Characiformes;Crenuchidae;Microcharacidium ;Microcharacidium weitzmani;1;2
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Gymnotiformes; Hypopomidae;Microsternarchus;Microsternarchus aff. bilineatus;1;1
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Gymnotiformes; Hypopomidae;Microsternarchus;Microsternarchus aff. bilineatus;1;1
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Gymnotiformes; Hypopomidae;Microsternarchus;Microsternarchus aff. bilineatus;1;22
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Gymnotiformes; Hypopomidae;Microsternarchus;Microsternarchus aff. bilineatus;1;1
+CNV05;Paragominas;PA;-2.96445;-47.73679;Logging;2013;Characiformes;Characidae;Moenkhausia;Moenkhausia oligolepis;1;2
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Characiformes;Characidae;Moenkhausia;Moenkhausia oligolepis;1;2
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Characiformes;Characidae;Moenkhausia;Moenkhausia oligolepis;1;3
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Characiformes;Characidae;Moenkhausia;Moenkhausia oligolepis;1;1
+IFTREF2;Paragominas;PA;-3.73216;-48.28948;Forest;2013;Characiformes;Characidae;Moenkhausia;Moenkhausia oligolepis;1;1
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Characiformes;Characidae;Moenkhausia;Moenkhausia oligolepis;1;1
+CNV05;Paragominas;PA;-2.96445;-47.73679;Logging;2013;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;2
+CNV06;Paragominas;PA;-3.02065;-47.77956;Logging;2013;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;7
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;1
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;7
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;4
+CNV16;Paragominas;PA;-3.00472;-47.74602;Logging;2013;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;17
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Characiformes;Lebiasinidae;Nannostomus;Nannostomus trifasciatus;1;1
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Characiformes;Lebiasinidae;Nannostomus;Nannostomus trifasciatus;1;12
+CNV12;Paragominas;PA;-3.17981;-47.76374;Logging;2013;Characiformes;Lebiasinidae;Nannostomus;Nannostomus trifasciatus;1;4
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Characiformes;Lebiasinidae;Nannostomus;Nannostomus trifasciatus;1;3
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Characiformes;Lebiasinidae;Nannostomus;Nannostomus trifasciatus;1;13
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Siluriformes;Trichomycteridae;Paracanthopoma;Paracanthopoma sp.;1;3
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Siluriformes;Trichomycteridae;Paracanthopoma;Paracanthopoma sp.;1;3
+IFTREF6;Paragominas;PA;-3.69891;-48.46499;Forest;2013;Siluriformes;Trichomycteridae;Paracanthopoma;Paracanthopoma sp.;1;1
+IFTREF7;Paragominas;PA;-3.69696;-48.46444;Forest;2013;Siluriformes;Trichomycteridae;Paracanthopoma;Paracanthopoma sp.;1;14
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Siluriformes;Heptapteridae;Pimelodella;Pimelodella sp.;1;9
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Siluriformes;Heptapteridae;Pimelodella;Pimelodella sp.;1;1
+CNV05;Paragominas;PA;-2.96445;-47.73679;Logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;18
+CNV06;Paragominas;PA;-3.02065;-47.77956;Logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;29
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;4
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;22
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;16
+CNV12;Paragominas;PA;-3.17981;-47.76374;Logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;18
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;15
+CNV16;Paragominas;PA;-3.00472;-47.74602;Logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;28
+IFTREF10;Paragominas;PA;-3.72741;-48.48464;Forest;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;107
+IFTREF2;Paragominas;PA;-3.73216;-48.28948;Forest;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;40
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;16
+IFTREF6;Paragominas;PA;-3.69891;-48.46499;Forest;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;81
+IFTREF7;Paragominas;PA;-3.69696;-48.46444;Forest;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;15
+IFTREF8;Paragominas;PA;-3.71111;-48.47323;Forest;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;7
+REF04;Paragominas;PA;-3.59157;-48.60641;Logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;23
+CNV06;Paragominas;PA;-3.02065;-47.77956;Logging;2013;Siluriformes;Heptapteridae;Rhamdia;Rhamdia?muelleri;1;1
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Siluriformes;Heptapteridae;Rhamdia;Rhamdia?muelleri;1;1
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Siluriformes;Heptapteridae;Rhamdia;Rhamdia?muelleri;1;5
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Siluriformes;Loricariidae;Rineloricaria;Rineloricaria sp.;1;2
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Gymnotiformes; Sternopygidae;Sternopygus;Sternopygus macrurus;1;1
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Gymnotiformes; Sternopygidae;Sternopygus;Sternopygus macrurus;1;1
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Gymnotiformes; Sternopygidae;Sternopygus;Sternopygus macrurus;1;1
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Siluriformes;Auchenipteridae;Tetranematichthys;Tetranematichthys wallacei;1;1
+CNV07;Paragominas;PA;-3.02752;-47.7661;Logging;2013;Siluriformes;Trichomycteridae;Trichomycterus;Trichomycterus hasemani  ;1;1
+CNV09;Paragominas;PA;-3.06172;-47.78866;Logging;2013;Siluriformes;Trichomycteridae;Trichomycterus;Trichomycterus hasemani  ;1;3
+CNV10;Paragominas;PA;-2.99559;-47.77047;Logging;2013;Siluriformes;Trichomycteridae;Trichomycterus;Trichomycterus hasemani  ;1;3
+CNV12;Paragominas;PA;-3.17981;-47.76374;Logging;2013;Siluriformes;Trichomycteridae;Trichomycterus;Trichomycterus hasemani  ;1;1
+CNV13;Paragominas;PA;-2.99702;-47.74525;Logging;2013;Siluriformes;Trichomycteridae;Trichomycterus;Trichomycterus hasemani  ;1;8
+CNV16;Paragominas;PA;-3.00472;-47.74602;Logging;2013;Siluriformes;Trichomycteridae;Trichomycterus;Trichomycterus hasemani  ;1;11
+IFTREF5;Paragominas;PA;-3.65307;-48.47472;Forest;2013;Siluriformes;Trichomycteridae;Trichomycterus;Trichomycterus hasemani  ;1;3
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Siluriformes;Doradidae;Acanthodoras;Acanthodoras cataphractus;1;1
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;2
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;2
+UPA13UT27-1;Paragominas;PA;-3.71856;-48.70264;Reduced-impact logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;13
+UPA13UT27-2;Paragominas;PA;-3.72305;-48.69458;Reduced-impact logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;50
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;5
+UPA5UT20;Paragominas;PA;-3.54574;-48.49817;Reduced-impact logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;6
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;1
+UPA6UT81;Paragominas;PA;-3.66524;-48.59988;Reduced-impact logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;3
+UPA7UT30;Paragominas;PA;-3.70937;-48.56151;Reduced-impact logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;2
+UPA7UT30-2;Paragominas;PA;-3.70929;-48.56111;Reduced-impact logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;1
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;2
+UPA9UT5;Paragominas;PA;-3.74078;-48.60257;Reduced-impact logging;2013;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;2
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;2
+UPA11UT26;Paragominas;PA;-3.66999;-48.51567;Reduced-impact logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;2
+UPA11UT37;Paragominas;PA;-3.59552;-48.54519;Reduced-impact logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;4
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;1
+UPA13UT27-1;Paragominas;PA;-3.71856;-48.70264;Reduced-impact logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;3
+UPA13UT27-2;Paragominas;PA;-3.72305;-48.69458;Reduced-impact logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;9
+UPA5UT20;Paragominas;PA;-3.54574;-48.49817;Reduced-impact logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;1
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;1
+UPA6UT16;Paragominas;PA;-3.53072;-48.78286;Reduced-impact logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;3
+UPA6UT81;Paragominas;PA;-3.66524;-48.59988;Reduced-impact logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;7
+UPA7UT30;Paragominas;PA;-3.70937;-48.56151;Reduced-impact logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;1
+UPA7UT30-2;Paragominas;PA;-3.70929;-48.56111;Reduced-impact logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;31
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;2
+UPA9UT5;Paragominas;PA;-3.74078;-48.60257;Reduced-impact logging;2013;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;2
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma?agassizii;1;13
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;71
+UPA11UT26;Paragominas;PA;-3.66999;-48.51567;Reduced-impact logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;49
+UPA11UT37;Paragominas;PA;-3.59552;-48.54519;Reduced-impact logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;54
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;58
+UPA13UT27-1;Paragominas;PA;-3.71856;-48.70264;Reduced-impact logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;27
+UPA13UT27-2;Paragominas;PA;-3.72305;-48.69458;Reduced-impact logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;76
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;18
+UPA5UT20;Paragominas;PA;-3.54574;-48.49817;Reduced-impact logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;35
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;97
+UPA6UT16;Paragominas;PA;-3.53072;-48.78286;Reduced-impact logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;67
+UPA6UT80;Paragominas;PA;-3.65393;-48.61003;Reduced-impact logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;47
+UPA6UT81;Paragominas;PA;-3.66524;-48.59988;Reduced-impact logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;4
+UPA7UT30-2;Paragominas;PA;-3.70929;-48.56111;Reduced-impact logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;10
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;54
+UPA9UT5;Paragominas;PA;-3.74078;-48.60257;Reduced-impact logging;2013;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;20
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Siluriformes;Pseudopimelodidae;Batrochoglanis;Batrochoglanis raninus;1;2
+UPA11UT37;Paragominas;PA;-3.59552;-48.54519;Reduced-impact logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus beebei;1;1
+UPA13UT27-2;Paragominas;PA;-3.72305;-48.69458;Reduced-impact logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus beebei;1;1
+UPA7UT30;Paragominas;PA;-3.70937;-48.56151;Reduced-impact logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus beebei;1;29
+UPA7UT30-2;Paragominas;PA;-3.70929;-48.56111;Reduced-impact logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus beebei;1;26
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.2;1;3
+UPA13UT27-1;Paragominas;PA;-3.71856;-48.70264;Reduced-impact logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.2;1;1
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.2;1;1
+UPA6UT16;Paragominas;PA;-3.53072;-48.78286;Reduced-impact logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.2;1;1
+UPA6UT81;Paragominas;PA;-3.66524;-48.59988;Reduced-impact logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.2;1;4
+UPA7UT30-2;Paragominas;PA;-3.70929;-48.56111;Reduced-impact logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.2;1;4
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.2;1;1
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.3;1;1
+UPA6UT16;Paragominas;PA;-3.53072;-48.78286;Reduced-impact logging;2013;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.3;1;3
+UPA13UT27-2;Paragominas;PA;-3.72305;-48.69458;Reduced-impact logging;2013;Siluriformes;Callichthyidae;Callichthys;Callichthys callichthys;1;1
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Characiformes;Gasteropelecidae;Carnegiella ;Carnegiella strigata;1;7
+UPA11UT37;Paragominas;PA;-3.59552;-48.54519;Reduced-impact logging;2013;Characiformes;Crenuchidae;Characidium;Characidium cf. etheostoma;1;8
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Characiformes;Crenuchidae;Characidium;Characidium cf. etheostoma;1;1
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Characiformes;Crenuchidae;Characidium;Characidium cf. etheostoma;1;1
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Characiformes;Crenuchidae;Characidium;Characidium cf. etheostoma;1;4
+UPA6UT16;Paragominas;PA;-3.53072;-48.78286;Reduced-impact logging;2013;Characiformes;Crenuchidae;Characidium;Characidium cf. etheostoma;1;30
+UPA6UT80;Paragominas;PA;-3.65393;-48.61003;Reduced-impact logging;2013;Characiformes;Crenuchidae;Characidium;Characidium cf. etheostoma;1;2
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Characiformes;Crenuchidae;Characidium;Characidium cf. etheostoma;1;3
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Characiformes;Crenuchidae;Characidium;Characidium zebra;1;1
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;22
+UPA5UT20;Paragominas;PA;-3.54574;-48.49817;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;22
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;56
+UPA6UT16;Paragominas;PA;-3.53072;-48.78286;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;9
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Siluriformes;Callichthyidae;Callichthys;Corydoras melanistius;1;3
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Cichliformes;Cichlidae;Crenicichla;Crenicichla gr. saxatilis;1;1
+UPA11UT26;Paragominas;PA;-3.66999;-48.51567;Reduced-impact logging;2013;Cichliformes;Cichlidae;Crenicichla;Crenicichla gr. saxatilis;1;5
+UPA11UT37;Paragominas;PA;-3.59552;-48.54519;Reduced-impact logging;2013;Cichliformes;Cichlidae;Crenicichla;Crenicichla gr. saxatilis;1;6
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Cichliformes;Cichlidae;Crenicichla;Crenicichla gr. saxatilis;1;18
+UPA13UT27-2;Paragominas;PA;-3.72305;-48.69458;Reduced-impact logging;2013;Cichliformes;Cichlidae;Crenicichla;Crenicichla gr. saxatilis;1;11
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Cichliformes;Cichlidae;Crenicichla;Crenicichla gr. saxatilis;1;3
+UPA5UT20;Paragominas;PA;-3.54574;-48.49817;Reduced-impact logging;2013;Cichliformes;Cichlidae;Crenicichla;Crenicichla gr. saxatilis;1;1
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Cichliformes;Cichlidae;Crenicichla;Crenicichla gr. saxatilis;1;1
+UPA6UT80;Paragominas;PA;-3.65393;-48.61003;Reduced-impact logging;2013;Cichliformes;Cichlidae;Crenicichla;Crenicichla gr. saxatilis;1;29
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Cichliformes;Cichlidae;Crenicichla;Crenicichla gr. saxatilis;1;10
+UPA9UT5;Paragominas;PA;-3.74078;-48.60257;Reduced-impact logging;2013;Cichliformes;Cichlidae;Crenicichla;Crenicichla gr. saxatilis;1;4
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;1
+UPA13UT27-1;Paragominas;PA;-3.71856;-48.70264;Reduced-impact logging;2013;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;19
+UPA13UT27-2;Paragominas;PA;-3.72305;-48.69458;Reduced-impact logging;2013;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;1
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;4
+UPA11UT37;Paragominas;PA;-3.59552;-48.54519;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Denticetopsis;Denticetopsis epa;1;2
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Denticetopsis;Denticetopsis epa;1;1
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Denticetopsis;Denticetopsis epa;1;2
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Denticetopsis;Denticetopsis epa;1;1
+UPA9UT5;Paragominas;PA;-3.74078;-48.60257;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Denticetopsis;Denticetopsis epa;1;1
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;1
+UPA11UT26;Paragominas;PA;-3.66999;-48.51567;Reduced-impact logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;5
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;4
+UPA13UT27-1;Paragominas;PA;-3.71856;-48.70264;Reduced-impact logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;10
+UPA13UT27-2;Paragominas;PA;-3.72305;-48.69458;Reduced-impact logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;7
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;8
+UPA5UT20;Paragominas;PA;-3.54574;-48.49817;Reduced-impact logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;20
+UPA6UT16;Paragominas;PA;-3.53072;-48.78286;Reduced-impact logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;1
+UPA6UT80;Paragominas;PA;-3.65393;-48.61003;Reduced-impact logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;8
+UPA6UT81;Paragominas;PA;-3.66524;-48.59988;Reduced-impact logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;15
+UPA7UT30;Paragominas;PA;-3.70937;-48.56151;Reduced-impact logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;46
+UPA7UT30-2;Paragominas;PA;-3.70929;-48.56111;Reduced-impact logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;17
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;5
+UPA9UT5;Paragominas;PA;-3.74078;-48.60257;Reduced-impact logging;2013;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;6
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Siluriformes;Loricariidae;Farlowella;Farlowella amazonum;1;2
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Siluriformes;Loricariidae;Farlowella;Farlowella amazonum;1;3
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Siluriformes;Loricariidae;Farlowella;Farlowella amazonum;1;3
+UPA9UT5;Paragominas;PA;-3.74078;-48.60257;Reduced-impact logging;2013;Siluriformes;Loricariidae;Farlowella;Farlowella amazonum;1;1
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys petiti;1;8
+UPA11UT26;Paragominas;PA;-3.66999;-48.51567;Reduced-impact logging;2013;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys petiti;1;14
+UPA11UT37;Paragominas;PA;-3.59552;-48.54519;Reduced-impact logging;2013;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys petiti;1;39
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys petiti;1;44
+UPA13UT27-2;Paragominas;PA;-3.72305;-48.69458;Reduced-impact logging;2013;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys petiti;1;31
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys petiti;1;6
+UPA5UT20;Paragominas;PA;-3.54574;-48.49817;Reduced-impact logging;2013;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys petiti;1;5
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys petiti;1;12
+UPA6UT80;Paragominas;PA;-3.65393;-48.61003;Reduced-impact logging;2013;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys petiti;1;21
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys petiti;1;4
+UPA9UT5;Paragominas;PA;-3.74078;-48.60257;Reduced-impact logging;2013;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys petiti;1;12
+UPA7UT30;Paragominas;PA;-3.70937;-48.56151;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. carapo;1;1
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;5
+UPA11UT26;Paragominas;PA;-3.66999;-48.51567;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;3
+UPA11UT37;Paragominas;PA;-3.59552;-48.54519;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;6
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;5
+UPA13UT27-1;Paragominas;PA;-3.71856;-48.70264;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;15
+UPA13UT27-2;Paragominas;PA;-3.72305;-48.69458;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;13
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;8
+UPA5UT20;Paragominas;PA;-3.54574;-48.49817;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;3
+UPA6UT16;Paragominas;PA;-3.53072;-48.78286;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;2
+UPA6UT80;Paragominas;PA;-3.65393;-48.61003;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;6
+UPA6UT81;Paragominas;PA;-3.66524;-48.59988;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;4
+UPA7UT30;Paragominas;PA;-3.70937;-48.56151;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;1
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;4
+UPA9UT5;Paragominas;PA;-3.74078;-48.60257;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. coropinae;1;2
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;4
+UPA11UT26;Paragominas;PA;-3.66999;-48.51567;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;5
+UPA11UT37;Paragominas;PA;-3.59552;-48.54519;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;2
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;5
+UPA13UT27-1;Paragominas;PA;-3.71856;-48.70264;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;2
+UPA13UT27-2;Paragominas;PA;-3.72305;-48.69458;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;1
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;14
+UPA5UT20;Paragominas;PA;-3.54574;-48.49817;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;1
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;4
+UPA6UT80;Paragominas;PA;-3.65393;-48.61003;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;1
+UPA6UT81;Paragominas;PA;-3.66524;-48.59988;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;1
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;4
+UPA9UT5;Paragominas;PA;-3.74078;-48.60257;Reduced-impact logging;2013;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus gr. pantherinus;1;4
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;3
+UPA11UT26;Paragominas;PA;-3.66999;-48.51567;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;5
+UPA11UT37;Paragominas;PA;-3.59552;-48.54519;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;12
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;15
+UPA13UT27-1;Paragominas;PA;-3.71856;-48.70264;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;24
+UPA13UT27-2;Paragominas;PA;-3.72305;-48.69458;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;7
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;1
+UPA5UT20;Paragominas;PA;-3.54574;-48.49817;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;4
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;2
+UPA6UT16;Paragominas;PA;-3.53072;-48.78286;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;7
+UPA6UT80;Paragominas;PA;-3.65393;-48.61003;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;19
+UPA6UT81;Paragominas;PA;-3.66524;-48.59988;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;16
+UPA7UT30;Paragominas;PA;-3.70937;-48.56151;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;10
+UPA7UT30-2;Paragominas;PA;-3.70929;-48.56111;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;10
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;7
+UPA9UT5;Paragominas;PA;-3.74078;-48.60257;Reduced-impact logging;2013;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;5
+UPA11UT26;Paragominas;PA;-3.66999;-48.51567;Reduced-impact logging;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;35
+UPA11UT37;Paragominas;PA;-3.59552;-48.54519;Reduced-impact logging;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;1
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;3
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;13
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;60
+UPA6UT16;Paragominas;PA;-3.53072;-48.78286;Reduced-impact logging;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;11
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;4
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;1
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;7
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;1
+UPA11UT26;Paragominas;PA;-3.66999;-48.51567;Reduced-impact logging;2013;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;1
+UPA13UT27-1;Paragominas;PA;-3.71856;-48.70264;Reduced-impact logging;2013;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;2
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;6
+UPA6UT81;Paragominas;PA;-3.66524;-48.59988;Reduced-impact logging;2013;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;2
+UPA7UT30-2;Paragominas;PA;-3.70929;-48.56111;Reduced-impact logging;2013;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;4
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;3
+UPA9UT5;Paragominas;PA;-3.74078;-48.60257;Reduced-impact logging;2013;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;4
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;247
+UPA11UT26;Paragominas;PA;-3.66999;-48.51567;Reduced-impact logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;15
+UPA11UT37;Paragominas;PA;-3.59552;-48.54519;Reduced-impact logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;31
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;34
+UPA13UT27-1;Paragominas;PA;-3.71856;-48.70264;Reduced-impact logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;616
+UPA13UT27-2;Paragominas;PA;-3.72305;-48.69458;Reduced-impact logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;110
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;1
+UPA5UT20;Paragominas;PA;-3.54574;-48.49817;Reduced-impact logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;104
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;324
+UPA6UT16;Paragominas;PA;-3.53072;-48.78286;Reduced-impact logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;91
+UPA6UT80;Paragominas;PA;-3.65393;-48.61003;Reduced-impact logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;94
+UPA6UT81;Paragominas;PA;-3.66524;-48.59988;Reduced-impact logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;63
+UPA7UT30;Paragominas;PA;-3.70937;-48.56151;Reduced-impact logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;555
+UPA7UT30-2;Paragominas;PA;-3.70929;-48.56111;Reduced-impact logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;462
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;4
+UPA9UT5;Paragominas;PA;-3.74078;-48.60257;Reduced-impact logging;2013;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;7
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;3
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;2
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;2
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;8
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;35
+UPA11UT26;Paragominas;PA;-3.66999;-48.51567;Reduced-impact logging;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;107
+UPA11UT37;Paragominas;PA;-3.59552;-48.54519;Reduced-impact logging;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;110
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;54
+UPA13UT27-2;Paragominas;PA;-3.72305;-48.69458;Reduced-impact logging;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;45
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;10
+UPA5UT20;Paragominas;PA;-3.54574;-48.49817;Reduced-impact logging;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;33
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;12
+UPA6UT16;Paragominas;PA;-3.53072;-48.78286;Reduced-impact logging;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;35
+UPA6UT80;Paragominas;PA;-3.65393;-48.61003;Reduced-impact logging;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;37
+UPA6UT81;Paragominas;PA;-3.66524;-48.59988;Reduced-impact logging;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;2
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;40
+UPA9UT5;Paragominas;PA;-3.74078;-48.60257;Reduced-impact logging;2013;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;50
+UPA11UT37;Paragominas;PA;-3.59552;-48.54519;Reduced-impact logging;2013;Siluriformes;Trichomycteridae;Ituglanis;Ituglanis amazonicus;1;1
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Siluriformes;Trichomycteridae;Ituglanis;Ituglanis amazonicus;1;12
+UPA13UT27-1;Paragominas;PA;-3.71856;-48.70264;Reduced-impact logging;2013;Siluriformes;Trichomycteridae;Ituglanis;Ituglanis amazonicus;1;2
+UPA13UT27-2;Paragominas;PA;-3.72305;-48.69458;Reduced-impact logging;2013;Siluriformes;Trichomycteridae;Ituglanis;Ituglanis amazonicus;1;6
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Siluriformes;Trichomycteridae;Ituglanis;Ituglanis amazonicus;1;4
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Siluriformes;Trichomycteridae;Ituglanis;Ituglanis amazonicus;1;1
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Characiformes;Characidae;Knodus;Knodus cf. victoriae;1;1
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Characiformes;Characidae;Knodus;Knodus cf. victoriae;1;7
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Siluriformes;Heptapteridae;Mastiglanis;Mastiglanis asopos;1;6
+UPA9UT5;Paragominas;PA;-3.74078;-48.60257;Reduced-impact logging;2013;Siluriformes;Heptapteridae;Mastiglanis;Mastiglanis asopos;1;1
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Siluriformes;Callichthyidae;Megalechis;Megalechis thoracata;1;1
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Characiformes;Crenuchidae;Melanocharacidium;Melanocharacidium dispilomma;1;1
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Characiformes;Crenuchidae;Microcharacidium ;Microcharacidium weitzmani;1;189
+UPA11UT37;Paragominas;PA;-3.59552;-48.54519;Reduced-impact logging;2013;Characiformes;Crenuchidae;Microcharacidium ;Microcharacidium weitzmani;1;13
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Characiformes;Crenuchidae;Microcharacidium ;Microcharacidium weitzmani;1;1
+UPA13UT27-1;Paragominas;PA;-3.71856;-48.70264;Reduced-impact logging;2013;Characiformes;Crenuchidae;Microcharacidium ;Microcharacidium weitzmani;1;155
+UPA13UT27-2;Paragominas;PA;-3.72305;-48.69458;Reduced-impact logging;2013;Characiformes;Crenuchidae;Microcharacidium ;Microcharacidium weitzmani;1;56
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Characiformes;Crenuchidae;Microcharacidium ;Microcharacidium weitzmani;1;50
+UPA6UT80;Paragominas;PA;-3.65393;-48.61003;Reduced-impact logging;2013;Characiformes;Crenuchidae;Microcharacidium ;Microcharacidium weitzmani;1;7
+UPA6UT81;Paragominas;PA;-3.66524;-48.59988;Reduced-impact logging;2013;Characiformes;Crenuchidae;Microcharacidium ;Microcharacidium weitzmani;1;8
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Gymnotiformes; Hypopomidae;Microsternarchus;Microsternarchus aff. bilineatus;1;7
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Gymnotiformes; Hypopomidae;Microsternarchus;Microsternarchus aff. bilineatus;1;1
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Gymnotiformes; Hypopomidae;Microsternarchus;Microsternarchus aff. bilineatus;1;9
+UPA6UT80;Paragominas;PA;-3.65393;-48.61003;Reduced-impact logging;2013;Gymnotiformes; Hypopomidae;Microsternarchus;Microsternarchus aff. bilineatus;1;3
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Gymnotiformes; Hypopomidae;Microsternarchus;Microsternarchus aff. bilineatus;1;2
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Characiformes;Characidae;Moenkhausia;Moenkhausia comma;1;1
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Characiformes;Characidae;Moenkhausia;Moenkhausia comma;1;4
+UPA7UT30;Paragominas;PA;-3.70937;-48.56151;Reduced-impact logging;2013;Characiformes;Characidae;Moenkhausia;Moenkhausia oligolepis;1;1
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;9
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;11
+UPA6UT16;Paragominas;PA;-3.53072;-48.78286;Reduced-impact logging;2013;Cichliformes;Cichlidae;Nannacara;Nannacara taenia;1;4
+UPA16REF3;Paragominas;PA;-3.55106;-48.7534;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Nannostomus;Nannostomus trifasciatus;1;3
+UPA11UT26;Paragominas;PA;-3.66999;-48.51567;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Nannostomus;Nannostomus trifasciatus;1;2
+UPA11UT37;Paragominas;PA;-3.59552;-48.54519;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Nannostomus;Nannostomus trifasciatus;1;3
+UPA13UT27-2;Paragominas;PA;-3.72305;-48.69458;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Nannostomus;Nannostomus trifasciatus;1;4
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Nannostomus;Nannostomus trifasciatus;1;14
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Nannostomus;Nannostomus trifasciatus;1;1
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Siluriformes;Trichomycteridae;Paracanthopoma;Paracanthopoma sp.;1;1
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Siluriformes;Trichomycteridae;Paracanthopoma;Paracanthopoma sp.;1;2
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Characiformes;Characidae;Phenacogaster;Phenacogaster pectinatus;1;1
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Siluriformes;Heptapteridae;Pimelodella;Pimelodella sp.;1;2
+UPA11UT26;Paragominas;PA;-3.66999;-48.51567;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;8
+UPA11UT37;Paragominas;PA;-3.59552;-48.54519;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;4
+UPA12UT29;Paragominas;PA;-3.70351;-48.67416;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;2
+UPA13UT27-1;Paragominas;PA;-3.71856;-48.70264;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;67
+UPA13UT27-2;Paragominas;PA;-3.72305;-48.69458;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;41
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;1
+UPA5UT20;Paragominas;PA;-3.54574;-48.49817;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;2
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;2
+UPA6UT16;Paragominas;PA;-3.53072;-48.78286;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;4
+UPA6UT80;Paragominas;PA;-3.65393;-48.61003;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;8
+UPA6UT81;Paragominas;PA;-3.66524;-48.59988;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;26
+UPA7UT30;Paragominas;PA;-3.70937;-48.56151;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;29
+UPA7UT30-2;Paragominas;PA;-3.70929;-48.56111;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;60
+UPA7UT55;Paragominas;PA;-3.66351;-48.56396;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;3
+UPA9UT5;Paragominas;PA;-3.74078;-48.60257;Reduced-impact logging;2013;Characiformes;Lebiasinidae;Pyrrhulina;Pyrrhulina aff. brevis;1;7
+UPA13UT31;Paragominas;PA;-3.70842;-48.71799;Reduced-impact logging;2013;Siluriformes;Loricariidae;Rineloricaria;Rineloricaria sp.;1;1
+UPA11UT37;Paragominas;PA;-3.59552;-48.54519;Reduced-impact logging;2013;Siluriformes;Trichomycteridae;Trichomycterus;Trichomycterus hasemani  ;1;14
+UPA6UT13;Paragominas;PA;-3.53329;-48.81104;Reduced-impact logging;2013;Siluriformes;Trichomycteridae;Trichomycterus;Trichomycterus hasemani  ;1;7
+UPA6UT16;Paragominas;PA;-3.53072;-48.78286;Reduced-impact logging;2013;Siluriformes;Trichomycteridae;Trichomycterus;Trichomycterus hasemani  ;1;2
+UPA6UT80;Paragominas;PA;-3.65393;-48.61003;Reduced-impact logging;2013;Siluriformes;Trichomycteridae;Trichomycterus;Trichomycterus hasemani  ;1;6
+HYA10;Paragominas;PA;-3.25814;-47.76078;Pasture;2017;Cichliformes;Cichlidae;Aequidens;Aequidens sp. (juvenil);1;2
+HYG04;Paragominas;PA;-3.20686;-47.78167;Pasture;2017;Cichliformes;Cichlidae;Aequidens;Aequidens sp. (juvenil);1;8
+HYH12;Paragominas;PA;-3.27678;-47.76617;Forest;2017;Cichliformes;Cichlidae;Aequidens;Aequidens sp. (juvenil);1;1
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Cichliformes;Cichlidae;Aequidens;Aequidens sp. (juvenil);1;1
+HYI06-1;Paragominas;PA;-3.22519;-47.75233;Forest;2017;Cichliformes;Cichlidae;Aequidens;Aequidens sp. (juvenil);1;1
+HYI09;Paragominas;PA;-3.24875;-47.72015;Minning;2017;Cichliformes;Cichlidae;Aequidens;Aequidens sp. (juvenil);1;4
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Cichliformes;Cichlidae;Aequidens;Aequidens sp. (juvenil);1;14
+HYK-07;Paragominas;PA;-3.23358;-47.73786;Forest;2017;Cichliformes;Cichlidae;Aequidens;Aequidens sp. (juvenil);1;1
+HYP13;Paragominas;PA;-3.28298;-47.66307;Eucalyptus;2017;Cichliformes;Cichlidae;Aequidens;Aequidens sp. (juvenil);1;3
+HYP13-1;Paragominas;PA;-3.29055;-47.66903;Eucalyptus;2017;Cichliformes;Cichlidae;Aequidens;Aequidens sp. (juvenil);1;8
+HYQ03;Paragominas;PA;-3.17011;-47.70055;Eucalyptus;2017;Cichliformes;Cichlidae;Aequidens;Aequidens sp. (juvenil);1;1
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Cichliformes;Cichlidae;Aequidens;Aequidens sp. (juvenil);1;7
+HYA10;Paragominas;PA;-3.25814;-47.76078;Pasture;2017;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;10
+HYG04;Paragominas;PA;-3.20686;-47.78167;Pasture;2017;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;12
+HYH09;Paragominas;PA;-3.25358;-47.77569;Minning;2017;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;1
+HYH12;Paragominas;PA;-3.27678;-47.76617;Forest;2017;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;1
+HYI-10;Paragominas;PA;-3.25814;-47.76078;Minning;2017;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;13
+HYI06-1;Paragominas;PA;-3.22519;-47.75233;Forest;2017;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;1
+HYI09;Paragominas;PA;-3.24875;-47.72015;Minning;2017;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;19
+HYL09;Paragominas;PA;-3.24427;-47.75556;Minning;2017;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;1
+HYO05;Paragominas;PA;-3.20925;-47.67822;Pasture;2017;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;12
+HYP15;Paragominas;PA;-3.30486;-47.66311;Eucalyptus;2017;Cichliformes;Cichlidae;Aequidens;Aequidens tetramerus;1;1
+HYA10;Paragominas;PA;-3.25814;-47.76078;Pasture;2017;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;2
+HYI09;Paragominas;PA;-3.24875;-47.72015;Minning;2017;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;2
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;4
+HYK-07;Paragominas;PA;-3.23358;-47.73786;Forest;2017;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;1
+HYO05;Paragominas;PA;-3.20925;-47.67822;Pasture;2017;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;5
+HYP15;Paragominas;PA;-3.30486;-47.66311;Eucalyptus;2017;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;4
+HYQ03;Paragominas;PA;-3.17011;-47.70055;Eucalyptus;2017;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;22
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Cyprinodontiformes;Rivulidae;Anablepsoides;Anablepsoides urophthalmus;1;5
+HYG04;Paragominas;PA;-3.20686;-47.78167;Pasture;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma?agassizii;1;11
+HYH12;Paragominas;PA;-3.27678;-47.76617;Forest;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma?agassizii;1;6
+HYI06-1;Paragominas;PA;-3.22519;-47.75233;Forest;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma?agassizii;1;1
+HYI09;Paragominas;PA;-3.24875;-47.72015;Minning;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma?agassizii;1;34
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma?agassizii;1;4
+HYL16;Paragominas;PA;-3.32948;-47.72747;Forest;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma?agassizii;1;2
+HYP15;Paragominas;PA;-3.30486;-47.66311;Eucalyptus;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma?agassizii;1;1
+HYQ03;Paragominas;PA;-3.17011;-47.70055;Eucalyptus;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma?agassizii;1;80
+HYA10;Paragominas;PA;-3.25814;-47.76078;Pasture;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;11
+HYH09;Paragominas;PA;-3.25358;-47.77569;Minning;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;56
+HYH12;Paragominas;PA;-3.27678;-47.76617;Forest;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;5
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;27
+HYI-10;Paragominas;PA;-3.25814;-47.76078;Minning;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;16
+HYI06-1;Paragominas;PA;-3.22519;-47.75233;Forest;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;3
+HYI09;Paragominas;PA;-3.24875;-47.72015;Minning;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;3
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;10
+HYL09;Paragominas;PA;-3.24427;-47.75556;Minning;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;11
+HYL16;Paragominas;PA;-3.32948;-47.72747;Forest;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;118
+HYP13;Paragominas;PA;-3.28298;-47.66307;Eucalyptus;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;18
+HYP13-1;Paragominas;PA;-3.29055;-47.66903;Eucalyptus;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;8
+HYP15;Paragominas;PA;-3.30486;-47.66311;Eucalyptus;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;20
+HYQ03;Paragominas;PA;-3.17011;-47.70055;Eucalyptus;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;2
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Cichliformes;Cichlidae;Apistogramma;Apistogramma gr. regani;1;53
+HYL16;Paragominas;PA;-3.32948;-47.72747;Forest;2017;Characiformes;Characidae;Bario;Bario steindachneri;1;26
+HYQ03;Paragominas;PA;-3.17011;-47.70055;Eucalyptus;2017;Characiformes;Characidae;Bario;Bario steindachneri;1;4
+HYG04;Paragominas;PA;-3.20686;-47.78167;Pasture;2017;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;31
+HYH09;Paragominas;PA;-3.25358;-47.77569;Minning;2017;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;5
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;3
+HYI09;Paragominas;PA;-3.24875;-47.72015;Minning;2017;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;3
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;7
+HYK-07;Paragominas;PA;-3.23358;-47.73786;Forest;2017;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;5
+HYO05;Paragominas;PA;-3.20925;-47.67822;Pasture;2017;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;35
+HYP15;Paragominas;PA;-3.30486;-47.66311;Eucalyptus;2017;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;3
+HYP15;Paragominas;PA;-3.30486;-47.66311;Eucalyptus;2017;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;1
+HYQ03;Paragominas;PA;-3.17011;-47.70055;Eucalyptus;2017;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;20
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus brevirostris;1;10
+HYQ03;Paragominas;PA;-3.17011;-47.70055;Eucalyptus;2017;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.;1;1
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp. (juvenil);1;2
+HYQ03;Paragominas;PA;-3.17011;-47.70055;Eucalyptus;2017;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp. (juvenil);1;1
+HYP13-1;Paragominas;PA;-3.29055;-47.66903;Eucalyptus;2017;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sp.2;1;10
+HYP15;Paragominas;PA;-3.30486;-47.66311;Eucalyptus;2017;Gymnotiformes;Hypopomidae;Brachypopomus;Brachyhypopomus sullivani;1;6
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Characiformes;Iguanodectidae;Bryconops;Bryconops sp.;1;1
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Siluriformes;Callichthyidae;Callichthys;Callichthys callichthys;1;1
+HYK-07;Paragominas;PA;-3.23358;-47.73786;Forest;2017;Siluriformes;Callichthyidae;Callichthys;Callichthys callichthys;1;1
+HYO05;Paragominas;PA;-3.20925;-47.67822;Pasture;2017;Siluriformes;Callichthyidae;Callichthys;Callichthys callichthys;1;8
+HYP15;Paragominas;PA;-3.30486;-47.66311;Eucalyptus;2017;Characiformes;Gasteropelecidae;Carnegiella ;Carnegiella strigata;1;2
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Characiformes;Gasteropelecidae;Carnegiella ;Carnegiella strigata;1;41
+HYA10;Paragominas;PA;-3.25814;-47.76078;Pasture;2017;Characiformes;Crenuchidae;Characidium;Characidium sp. n.;1;1
+HYL16;Paragominas;PA;-3.32948;-47.72747;Forest;2017;Characiformes;Crenuchidae;Characidium;Characidium sp. n.;1;15
+HYP13-1;Paragominas;PA;-3.29055;-47.66903;Eucalyptus;2017;Characiformes;Crenuchidae;Characidium;Characidium sp. n.;1;1
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Characiformes;Crenuchidae;Characidium;Characidium sp. n.;1;38
+HYG04;Paragominas;PA;-3.20686;-47.78167;Pasture;2017;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;11
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;33
+HYI-10;Paragominas;PA;-3.25814;-47.76078;Minning;2017;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;4
+HYI06-1;Paragominas;PA;-3.22519;-47.75233;Forest;2017;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;4
+HYI09;Paragominas;PA;-3.24875;-47.72015;Minning;2017;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;12
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;6
+HYK-07;Paragominas;PA;-3.23358;-47.73786;Forest;2017;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;8
+HYL09;Paragominas;PA;-3.24427;-47.75556;Minning;2017;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;12
+HYL16;Paragominas;PA;-3.32948;-47.72747;Forest;2017;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;24
+HYO05;Paragominas;PA;-3.20925;-47.67822;Pasture;2017;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;9
+HYP13;Paragominas;PA;-3.28298;-47.66307;Eucalyptus;2017;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;15
+HYP15;Paragominas;PA;-3.30486;-47.66311;Eucalyptus;2017;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;24
+HYQ03;Paragominas;PA;-3.17011;-47.70055;Eucalyptus;2017;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;34
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Characiformes;Lebiasinidae;Copella;Copella arnoldi;1;87
+HYG04;Paragominas;PA;-3.20686;-47.78167;Pasture;2017;Cichliformes;Cichlidae;Crenicichla;Crenicichla sp. (juvenil);1;8
+HYH12;Paragominas;PA;-3.27678;-47.76617;Forest;2017;Cichliformes;Cichlidae;Crenicichla;Crenicichla sp. (juvenil);1;1
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Cichliformes;Cichlidae;Crenicichla;Crenicichla sp. (juvenil);1;1
+HYO05;Paragominas;PA;-3.20925;-47.67822;Pasture;2017;Cichliformes;Cichlidae;Crenicichla;Crenicichla sp. (juvenil);1;29
+HYP13;Paragominas;PA;-3.28298;-47.66307;Eucalyptus;2017;Cichliformes;Cichlidae;Crenicichla;Crenicichla sp. (juvenil);1;5
+HYQ03;Paragominas;PA;-3.17011;-47.70055;Eucalyptus;2017;Characiformes;Crenuchidae;Crenuchus;Crenuchus?spilurus?;1;9
+HYG04;Paragominas;PA;-3.20686;-47.78167;Pasture;2017;Characiformes;Curimatidae;Curimatopsis;Curimatopsis evelynae;1;35
+HYH09;Paragominas;PA;-3.25358;-47.77569;Minning;2017;Characiformes;Curimatidae;Curimatopsis;Curimatopsis evelynae;1;1
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Characiformes;Curimatidae;Curimatopsis;Curimatopsis evelynae;1;13
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Characiformes;Curimatidae;Curimatopsis;Curimatopsis evelynae;1;5
+HYK-07;Paragominas;PA;-3.23358;-47.73786;Forest;2017;Characiformes;Curimatidae;Curimatopsis;Curimatopsis evelynae;1;1
+HYP13;Paragominas;PA;-3.28298;-47.66307;Eucalyptus;2017;Characiformes;Curimatidae;Curimatopsis;Curimatopsis evelynae;1;4
+HYQ03;Paragominas;PA;-3.17011;-47.70055;Eucalyptus;2017;Characiformes;Curimatidae;Curimatopsis;Curimatopsis evelynae;1;3
+HYI06-1;Paragominas;PA;-3.22519;-47.75233;Forest;2017;Siluriformes;Cetopsidae;Denticetopsis;Denticetopsis epa;1;3
+HYG04;Paragominas;PA;-3.20686;-47.78167;Pasture;2017;Gymnotiformes; Sternopygidae;Eigenmannia ;Eigenmannia gr. trilineata;1;2
+HYH09;Paragominas;PA;-3.25358;-47.77569;Minning;2017;Gymnotiformes; Sternopygidae;Eigenmannia ;Eigenmannia gr. trilineata;1;1
+HYH12;Paragominas;PA;-3.27678;-47.76617;Forest;2017;Gymnotiformes; Sternopygidae;Eigenmannia ;Eigenmannia gr. trilineata;1;1
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Gymnotiformes; Sternopygidae;Eigenmannia ;Eigenmannia gr. trilineata;1;10
+HYI-10;Paragominas;PA;-3.25814;-47.76078;Minning;2017;Gymnotiformes; Sternopygidae;Eigenmannia ;Eigenmannia gr. trilineata;1;1
+HYI06-1;Paragominas;PA;-3.22519;-47.75233;Forest;2017;Gymnotiformes; Sternopygidae;Eigenmannia ;Eigenmannia gr. trilineata;1;2
+HYI09;Paragominas;PA;-3.24875;-47.72015;Minning;2017;Gymnotiformes; Sternopygidae;Eigenmannia ;Eigenmannia gr. trilineata;1;2
+HYO05;Paragominas;PA;-3.20925;-47.67822;Pasture;2017;Gymnotiformes; Sternopygidae;Eigenmannia ;Eigenmannia gr. trilineata;1;4
+HYP13;Paragominas;PA;-3.28298;-47.66307;Eucalyptus;2017;Gymnotiformes; Sternopygidae;Eigenmannia ;Eigenmannia gr. trilineata;1;1
+HYP15;Paragominas;PA;-3.30486;-47.66311;Eucalyptus;2017;Gymnotiformes; Sternopygidae;Eigenmannia ;Eigenmannia gr. trilineata;1;11
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;18
+HYK-07;Paragominas;PA;-3.23358;-47.73786;Forest;2017;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;1
+HYO05;Paragominas;PA;-3.20925;-47.67822;Pasture;2017;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;22
+HYQ03;Paragominas;PA;-3.17011;-47.70055;Eucalyptus;2017;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;3
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Characiformes;Erythrinidae;Erythrinus;Erythrinus?erythrinus;1;18
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Siluriformes;Loricariidae;Farlowella;Farlowella amazonum;1;1
+HYI-10;Paragominas;PA;-3.25814;-47.76078;Minning;2017;Siluriformes;Loricariidae;Farlowella;Farlowella amazonum;1;5
+HYL09;Paragominas;PA;-3.24427;-47.75556;Minning;2017;Siluriformes;Loricariidae;Farlowella;Farlowella amazonum;1;1
+HYP13;Paragominas;PA;-3.28298;-47.66307;Eucalyptus;2017;Siluriformes;Loricariidae;Farlowella;Farlowella amazonum;1;3
+HYH09;Paragominas;PA;-3.25358;-47.77569;Minning;2017;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys?rondoni;1;1
+HYH12;Paragominas;PA;-3.27678;-47.76617;Forest;2017;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys?rondoni;1;1
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys?rondoni;1;11
+HYI-10;Paragominas;PA;-3.25814;-47.76078;Minning;2017;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys?rondoni;1;10
+HYI06-1;Paragominas;PA;-3.22519;-47.75233;Forest;2017;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys?rondoni;1;3
+HYI09;Paragominas;PA;-3.24875;-47.72015;Minning;2017;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys?rondoni;1;2
+HYL16;Paragominas;PA;-3.32948;-47.72747;Forest;2017;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys?rondoni;1;86
+HYO05;Paragominas;PA;-3.20925;-47.67822;Pasture;2017;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys?rondoni;1;3
+HYP13;Paragominas;PA;-3.28298;-47.66307;Eucalyptus;2017;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys?rondoni;1;30
+HYP13-1;Paragominas;PA;-3.29055;-47.66903;Eucalyptus;2017;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys?rondoni;1;12
+HYP15;Paragominas;PA;-3.30486;-47.66311;Eucalyptus;2017;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys?rondoni;1;16
+HYQ03;Paragominas;PA;-3.17011;-47.70055;Eucalyptus;2017;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys?rondoni;1;1
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Gymnotiformes; Rhamphichthyidae;Gymnorhamphichthys;Gymnorhamphichthys?rondoni;1;4
+HYP15;Paragominas;PA;-3.30486;-47.66311;Eucalyptus;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus anguillaris;1;1
+HYG04;Paragominas;PA;-3.20686;-47.78167;Pasture;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus carapo;1;1
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus carapo;1;1
+HYP13;Paragominas;PA;-3.28298;-47.66307;Eucalyptus;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus carapo;1;1
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus carapo;1;8
+HYA10;Paragominas;PA;-3.25814;-47.76078;Pasture;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;2
+HYH09;Paragominas;PA;-3.25358;-47.77569;Minning;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;1
+HYH12;Paragominas;PA;-3.27678;-47.76617;Forest;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;2
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;2
+HYI-10;Paragominas;PA;-3.25814;-47.76078;Minning;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;6
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;17
+HYL16;Paragominas;PA;-3.32948;-47.72747;Forest;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;51
+HYO05;Paragominas;PA;-3.20925;-47.67822;Pasture;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;1
+HYP13;Paragominas;PA;-3.28298;-47.66307;Eucalyptus;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;9
+HYP13-1;Paragominas;PA;-3.29055;-47.66903;Eucalyptus;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;3
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus coropinae;1;2
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus sp. (juvenil);1;5
+HYO05;Paragominas;PA;-3.20925;-47.67822;Pasture;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus sp. (juvenil);1;11
+HYP13;Paragominas;PA;-3.28298;-47.66307;Eucalyptus;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus sp. (juvenil);1;2
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Gymnotiformes;Gymnotidae;Gymnotus;Gymnotus sp. (juvenil);1;1
+HYA10;Paragominas;PA;-3.25814;-47.76078;Pasture;2017;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;1
+HYG04;Paragominas;PA;-3.20686;-47.78167;Pasture;2017;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;1
+HYH12;Paragominas;PA;-3.27678;-47.76617;Forest;2017;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;5
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;2
+HYI-10;Paragominas;PA;-3.25814;-47.76078;Minning;2017;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;11
+HYI09;Paragominas;PA;-3.24875;-47.72015;Minning;2017;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;6
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;16
+HYO05;Paragominas;PA;-3.20925;-47.67822;Pasture;2017;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;7
+HYP13;Paragominas;PA;-3.28298;-47.66307;Eucalyptus;2017;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;4
+HYP13-1;Paragominas;PA;-3.29055;-47.66903;Eucalyptus;2017;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;4
+HYP15;Paragominas;PA;-3.30486;-47.66311;Eucalyptus;2017;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;13
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Siluriformes;Cetopsidae;Helogenes;Helogenes marmoratus;1;11
+HYA10;Paragominas;PA;-3.25814;-47.76078;Pasture;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;2
+HYG04;Paragominas;PA;-3.20686;-47.78167;Pasture;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;1
+HYH09;Paragominas;PA;-3.25358;-47.77569;Minning;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;3
+HYH12;Paragominas;PA;-3.27678;-47.76617;Forest;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;13
+HYI-10;Paragominas;PA;-3.25814;-47.76078;Minning;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;15
+HYI06-1;Paragominas;PA;-3.22519;-47.75233;Forest;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;9
+HYI09;Paragominas;PA;-3.24875;-47.72015;Minning;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;4
+HYL09;Paragominas;PA;-3.24427;-47.75556;Minning;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;2
+HYO05;Paragominas;PA;-3.20925;-47.67822;Pasture;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;25
+HYP13;Paragominas;PA;-3.28298;-47.66307;Eucalyptus;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;7
+HYP13-1;Paragominas;PA;-3.29055;-47.66903;Eucalyptus;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;6
+HYP15;Paragominas;PA;-3.30486;-47.66311;Eucalyptus;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;12
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;12
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus bellottii ;1;1
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus cf. belottii;1;1
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus levis;1;6
+HYI09;Paragominas;PA;-3.24875;-47.72015;Minning;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus levis;1;1
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus levis;1;1
+HYA10;Paragominas;PA;-3.25814;-47.76078;Pasture;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;6
+HYG04;Paragominas;PA;-3.20686;-47.78167;Pasture;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;34
+HYH09;Paragominas;PA;-3.25358;-47.77569;Minning;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;2
+HYH12;Paragominas;PA;-3.27678;-47.76617;Forest;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;1
+HYI06-1;Paragominas;PA;-3.22519;-47.75233;Forest;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;4
+HYI09;Paragominas;PA;-3.24875;-47.72015;Minning;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;1
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;8
+HYL16;Paragominas;PA;-3.32948;-47.72747;Forest;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;17
+HYO05;Paragominas;PA;-3.20925;-47.67822;Pasture;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;27
+HYP13-1;Paragominas;PA;-3.29055;-47.66903;Eucalyptus;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;1
+HYP15;Paragominas;PA;-3.30486;-47.66311;Eucalyptus;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;6
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus ocellifer;1;80
+HYG04;Paragominas;PA;-3.20686;-47.78167;Pasture;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus rodwayi;1;33
+HYI09;Paragominas;PA;-3.24875;-47.72015;Minning;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus rodwayi;1;19
+HYO05;Paragominas;PA;-3.20925;-47.67822;Pasture;2017;Characiformes;Characidae;Hemigrammus;Hemigrammus rodwayi;1;2
+HYL16;Paragominas;PA;-3.32948;-47.72747;Forest;2017;Characiformes;Erythrinidae;Hoplerythrinus;Hoplerythrinus unitaeniatus;1;14
+HYG04;Paragominas;PA;-3.20686;-47.78167;Pasture;2017;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;14
+HYH09;Paragominas;PA;-3.25358;-47.77569;Minning;2017;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;1
+HYI09;Paragominas;PA;-3.24875;-47.72015;Minning;2017;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;2
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;2
+HYK-07;Paragominas;PA;-3.23358;-47.73786;Forest;2017;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;2
+HYO05;Paragominas;PA;-3.20925;-47.67822;Pasture;2017;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;4
+HYP13;Paragominas;PA;-3.28298;-47.66307;Eucalyptus;2017;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;7
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;1
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Characiformes;Erythrinidae;Hoplias;Hoplias malabaricus;1;3
+HYA10;Paragominas;PA;-3.25814;-47.76078;Pasture;2017;Characiformes;Erythrinidae;Hoplias;Hoplias sp. (juvenil);1;4
+HYH09;Paragominas;PA;-3.25358;-47.77569;Minning;2017;Characiformes;Erythrinidae;Hoplias;Hoplias sp. (juvenil);1;1
+HYP13;Paragominas;PA;-3.28298;-47.66307;Eucalyptus;2017;Characiformes;Erythrinidae;Hoplias;Hoplias sp. (juvenil);1;1
+HYP15;Paragominas;PA;-3.30486;-47.66311;Eucalyptus;2017;Characiformes;Erythrinidae;Hoplias;Hoplias sp. (juvenil);1;1
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Characiformes;Erythrinidae;Hoplias;Hoplias sp. (juvenil);1;2
+HYA10;Paragominas;PA;-3.25814;-47.76078;Pasture;2017;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;2
+HYG04;Paragominas;PA;-3.20686;-47.78167;Pasture;2017;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;6
+HYH09;Paragominas;PA;-3.25358;-47.77569;Minning;2017;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;5
+HYH12;Paragominas;PA;-3.27678;-47.76617;Forest;2017;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;10
+HYI-10;Paragominas;PA;-3.25814;-47.76078;Minning;2017;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;11
+HYI09;Paragominas;PA;-3.24875;-47.72015;Minning;2017;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;3
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;21
+HYK-07;Paragominas;PA;-3.23358;-47.73786;Forest;2017;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;5
+HYL09;Paragominas;PA;-3.24427;-47.75556;Minning;2017;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;1
+HYL16;Paragominas;PA;-3.32948;-47.72747;Forest;2017;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;80
+HYO05;Paragominas;PA;-3.20925;-47.67822;Pasture;2017;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;8
+HYP13;Paragominas;PA;-3.28298;-47.66307;Eucalyptus;2017;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;20
+HYP13-1;Paragominas;PA;-3.29055;-47.66903;Eucalyptus;2017;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;2
+HYP15;Paragominas;PA;-3.30486;-47.66311;Eucalyptus;2017;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;7
+HYQ03;Paragominas;PA;-3.17011;-47.70055;Eucalyptus;2017;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;22
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;27
+HYH14;Paragominas;PA;-3.29954;-47.76735;Pasture;2017;Characiformes;Characidae;Hyphessobrycon;Hyphessobrycon heterorhabdus;1;1
+HYA10;Paragominas;PA;-3.25814;-47.76078;Pasture;2017;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;1
+HYH12;Paragominas;PA;-3.27678;-47.76617;Forest;2017;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;2
+HYI09;Paragominas;PA;-3.24875;-47.72015;Minning;2017;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;1
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;9
+HYL09;Paragominas;PA;-3.24427;-47.75556;Minning;2017;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;1
+HYL16;Paragominas;PA;-3.32948;-47.72747;Forest;2017;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;2
+HYP15;Paragominas;PA;-3.30486;-47.66311;Eucalyptus;2017;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;15
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus lepturus;1;106
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus sp. (juvenil);1;1
+HYL09;Paragominas;PA;-3.24427;-47.75556;Minning;2017;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus sp. (juvenil);1;1
+HYL16;Paragominas;PA;-3.32948;-47.72747;Forest;2017;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus sp. (juvenil);1;1
+HYQ03;Paragominas;PA;-3.17011;-47.70055;Eucalyptus;2017;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus sp. (juvenil);1;11
+HYS-12;Paragominas;PA;-3.27841;-47.62288;Pasture;2017;Gymnotiformes; Hypopomidae;Hypopygus;Hypopygus sp. (juvenil);1;3
+HYA10;Paragominas;PA;-3.25814;-47.76078;Pasture;2017;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;21
+HYH09;Paragominas;PA;-3.25358;-47.77569;Minning;2017;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;1
+HYH12;Paragominas;PA;-3.27678;-47.76617;Forest;2017;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;3
+HYI-10;Paragominas;PA;-3.25814;-47.76078;Minning;2017;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;11
+HYI06-1;Paragominas;PA;-3.22519;-47.75233;Forest;2017;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;1
+HYI09;Paragominas;PA;-3.24875;-47.72015;Minning;2017;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;7
+HYJO4;Paragominas;PA;-3.20439;-47.74658;Pasture;2017;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;8
+HYL09;Paragominas;PA;-3.24427;-47.75556;Minning;2017;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;2
+HYL16;Paragominas;PA;-3.32948;-47.72747;Forest;2017;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;7
+HYO05;Paragominas;PA;-3.20925;-47.67822;Pasture;2017;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;29
+HYP13;Paragominas;PA;-3.28298;-47.66307;Eucalyptus;2017;Characiformes;Iguanodectidae;Iguanodectes;Iguanodectes rachovii;1;14
