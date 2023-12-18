@@ -1,0 +1,102 @@
+####MANIPULANDO E EXPLORANDO DADOS NUMÉRICOS
+
+#vamos avaliar a media do comprimento de asa de casa espécie
+#pra isso, primeiro precisarmos ter certeza que a variavel esta sendo lida pelo R como numerica
+aves <- read.csv("AVES.csv", sep=';', stringsAsFactors = TRUE) #Abrirndo e criando o dataframe
+
+
+aves$COMPRIMENTO.ASA..MM.
+
+# precisando entao transformar a variavel em numerica
+aves$COMPRIMENTO.ASA..MM. <- as.numeric(as.character(aves$COMPRIMENTO.ASA..MM.))
+
+summary(aves$COMPRIMENTO.ASA..MM.)
+
+#vamos olhar agora a mesma coluna novamente
+aves$COMPRIMENTO.ASA..MM.
+
+#vamos explorar as variáveis numéricas para detectar possíveis erros. Vamos começar 
+#agregando os valores de comprimento da asa por espécie, usando a fundação "aggregate"
+
+aggregate(x=aves$COMPRIMENTO.ASA..MM., by = list(aves$NOME.CIENTIFICO), FUN = mean)
+
+#ops, a função não conseguiu realizar a média de algumas spp. Pq será? Vamos olhar os valores das
+#spp que a função está retornando como NA
+
+aves[which(aves$NOME.CIENTIFICO=="PIPRA FASCIICAUDA"), "COMPRIMENTO.ASA..MM."]
+
+#Isso acontece porque essas espécies possuem valores inválidos ("NA"). Vamos precisar remover pra seguir
+#podemos fazer isso usando a função na.action
+
+linhas_com_na<-na.action(na.exclude(aves$COMPRIMENTO.ASA..MM.))
+
+#agora criamos um novo objeto removendo essas linhas
+aves_sem_na<-aves[-linhas_com_na,]
+
+#aplicamos a função de agragação novamente, usando o novo dataframe
+
+media_aves<-aggregate(x=aves_sem_na$COMPRIMENTO.ASA..MM., by = list(aves_sem_na$NOME.CIENTIFICO), FUN = mean)
+
+
+#vamos colocar em ordem (pacote dplyr)
+library(dplyr)
+media_aves %>% 
+  arrange(x)
+
+
+#Exercício 2
+#Escolha outras duas variaveis numéricas e faça o mesmo exercício nos dados de aves
+#Cauda
+aves$COMPRIMENTO.CAUDA..MM.
+aves$COMPRIMENTO.CAUDA..MM. <- as.numeric(as.character(aves$COMPRIMENTO.CAUDA..MM.))
+summary(aves$COMPRIMENTO.CAUDA..MM.)
+aggregate(x=aves$COMPRIMENTO.CAUDA..MM., by = list(aves$NOME.CIENTIFICO), FUN = mean)
+aves[which(aves$NOME.CIENTIFICO=="MYRMELASTES RUFIFACIES"), "COMPRIMENTO.CAUDA..MM."]
+linhas_com_na<-na.action(na.exclude(aves$COMPRIMENTO.CAUDA..MM.))
+aves_sem_na<-aves[-linhas_com_na,]
+media_aves<-aggregate(x=aves_sem_na$COMPRIMENTO.CAUDA..MM., by = list(aves_sem_na$NOME.CIENTIFICO), FUN = mean)
+#CULMEN
+aves$COMPRIMENTO.CULMEN...MM.
+aves$COMPRIMENTO.CULMEN...MM. <- as.numeric(as.character(aves$COMPRIMENTO.CULMEN...MM.))
+summary(aves$COMPRIMENTO.CULMEN...MM.)
+aggregate(x=aves$COMPRIMENTO.CULMEN...MM., by = list(aves$NOME.CIENTIFICO), FUN = mean)
+aves[which(aves$NOME.CIENTIFICO==" THRAUPIS EPISCOPUS"), "COMPRIMENTO.CULMEN...MM."]
+linhas_com_na<-na.action(na.exclude(aves$COMPRIMENTO.CULMEN...MM.))
+aves_sem_na<-aves[-linhas_com_na,]
+media_aves<-aggregate(x=aves_sem_na$COMPRIMENTO.CULMEN...MM., by = list(aves_sem_na$NOME.CIENTIFICO), FUN = mean)
+#anote quais sao as 5 especies com menores medias
+media_aves %>% 
+  arrange(x)
+#1             PHAETHORNIS RUPURUMII   4.00000
+#2                PICUMNUS AURIFRONS  25.00000
+#3                 PIPRA FASCIICAUDA  27.34309
+#4             MYRMOTHERA BERLEPSCHI  29.57500
+#5            PLATYRINCHUS CORONATUS  30.97857
+#CULMEN
+#1             PHAETHORNIS RUPURUMII   3.20000
+#2           HIERASPIZA SUPERCILIOSA  10.00000
+#3             MIONECTES MACCONNELLI  10.22000
+#4              SPOROPHILA AMERICANA  10.84286
+#5          TOLMOMYIAS SULPHURESCENS  10.85000
+
+#Some a abundancia por especies de peixes
+peixes <- read.csv("peixes.csv", sep=';', stringsAsFactors = TRUE)
+peixes$NUMBER_OF_RECORDS
+peixes$NUMBER_OF_RECORDS <- as.numeric(as.character(peixes$NUMBER_OF_RECORDS))
+#para somar, use o "sum" no argumento FUN
+aggregate(x=peixes$NUMBER_OF_RECORDS, by = list(peixes$SPECIES), FUN = sum)
+sum_peixes<-aggregate(x=peixes$NUMBER_OF_RECORDS, by = list(peixes$SPECIES), FUN=sum)
+sum_peixes %>% 
+  arrange(x)
+#anote as 10 mais abundantes e quantas ocorreram apenas uma vez (17 APENAS UMA VEZ)
+#Hyphessobrycon heterorhabdus 7106
+#Copella arnoldi 3408
+#Apistogramma gr. regani 2790
+#Elachocharax pulcher 1857
+#Microcharacidium weitzmani 1049
+#Hemigrammus bellottii   932
+#Iguanodectes rachovii  923
+#Hemigrammus ocellifer  902
+#Hypopygus lepturus  828
+#Pyrrhulina aff. brevis  703
+
