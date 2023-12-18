@@ -1,6 +1,7 @@
 #Verificar pasta do diretório
 install.packages("vegan")
 library(vegan)
+install.packages("ggplot2")
 library(ggplot2)
 
 aves <- read.csv("AVES.csv", sep=';', stringsAsFactors = TRUE) #Abrirndo e criando o dataframe
@@ -28,9 +29,15 @@ levels(aves$NOME.CIENTIFICO)#Para isso, vamos usar a função levels. Ela nos in
 summary(aves$NOME.CIENTIFICO) #essa função nos mostra quantas vezes cada categoria aparece no dataframe, ou 
 #seja, a frequência de cada spp
 
-sort(summary(aves$NOME.CIENTIFICO), decreasing = TRUE) #colocando em ordem para avaliar a distribuicao dos valores
+sort(summary(aves$NOME.CIENTIFICO), decreasing = FALSE) #colocando em ordem para avaliar a distribuicao dos valores
 
+colnames(aves)
+summary(aves$FAMILIA)
+sort(summary(aves$FAMILIA), decreasing = FALSE)
 
+colnames(aves)
+summary(aves$SUBFAMILIA)
+sort(summary(aves$SUBFAMILIA), decreasing = FALSE)
 #avalie quantas famílias e qual a abundância de cada uma no dataframe
 
 
@@ -48,6 +55,7 @@ taxa_aves<-tnrs_match_names(aves$NOME.CIENTIFICO, context_name="Birds") #funçã
 tnrs_contexts()#para ver todos os contextos taxonômicos que podem ser usados
 
 taxa_aves#vamos olhar o arquivo
+colnames(taxa_aves)
 
 
 taxa_aves[which(taxa_aves$approximate_match==TRUE),]#vamos olhar apenas para as spp que a função encontrou nomes próximos
@@ -61,12 +69,13 @@ levels(aves$NOME.CIENTIFICO)# vamos olhar essa info no nosso dataframe
 aves$NOME.CIENTIFICO<-as.character(aves$NOME.CIENTIFICO) #primeiro precisamos transformar a coluna dos 
 #nomes científicos para o tipo "character" e facilitar a manipulação
 
-aves[aves$NOME.CIENTIFICO=="HABIA RUBRA", "NOME.CIENTIFICO"]<- "HABIAS RUBIA" #substituindo o nome
+aves[aves$NOME.CIENTIFICO=="HABIA RUBRA", "NOME.CIENTIFICO"]<- "HABIA RUBICA" #substituindo o nome
+#faça o mesmo para a segunda especie indicada como errada
+aves[aves$NOME.CIENTIFICO=="XIPHORHYNCHUS GUTTATOIDES", "NOME.CIENTIFICO"]<- "XIPHORHYNCHUS GUTTATUS" #substituindo o nome
 
 aves$NOME.CIENTIFICO<-as.factor(aves$NOME.CIENTIFICO) #retornando a variável para o tipo factor
 levels(aves$NOME.CIENTIFICO) #checando se a alteração foi bem sucedida
 
-#faça o mesmo para a segunda especie indicada como errada
 
 ####Exercício 1
 #abra a planilha nomeada peixes
