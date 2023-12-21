@@ -36,9 +36,9 @@ aves<- aves %>% separate(DATA,
 #já dentro do R.
 
 
-aves<- aves %>% separate(NOME.CIENTIFICO, 
+peixes<- peixes %>% separate(NOME.CIENTIFICO, 
                            c("genero", "epiteto"),  
-                           fill = "left") 
+                           fill = "rigth") 
 
 #vamos ver novamente o numero total de colunas do nosso objeto e o nome
 #das colunas
@@ -102,3 +102,45 @@ aves$Estacao
 
 sample()
 
+#1. Usando os dados dos peixes, separe o nome das spp em três colunas 
+#(como várias espécies estão como aff  ou sp, precisamos inserir mais 
+#de duas colunas)
+#use o argumento fill="rigth" para indicar a ordem de preenchimento das colunas
+
+peixes <- read.csv("peixes.csv", sep=';', stringsAsFactors = TRUE)
+peixes$SPECIES
+
+peixes<- peixes %>% separate(SPECIES, 
+                         c("genero", "aff", "epiteto"),
+                         fill = "right")
+Summary(peixes)
+peixes$epiteto
+                         
+#2. Usando os dados de aves, separe hora e minutos em duas colunas diferentes 
+
+aves<- aves %>% separate(HORA,
+                         into = c ("HORA", "MINUTO"),
+                         sep = ":")
+colnames(aves)
+
+#3. Também usando os dados de aves, crie uma nova coluna unindo as informações do 
+#período sazonal e de ano
+
+aves <- aves %>%
+  mutate(PERIODO.SAZONAL_ANO = paste(PERIODO.SAZONAL, ANO, sep = " "))
+
+colnames(aves)
+aves$PERIODO.SAZONAL_ANO
+
+#4. Usando os dados de peixes, crie uma nova coluna para determinar quais 
+#coletar aconteceram no el nino e quais aconteceram durante o la nina.
+#considere 2015 como el nino e 2013 como la nina
+
+peixes$COL_END_YR <- as.numeric(peixes$COL_END_YR)
+peixes <- peixes %>%
+  mutate(COL_END_YR = case_when(
+    COL_END_YR %>% 2015  ~ "el nino",
+    COL_END_YR %>% 2013  ~ "la nina",
+  ))
+peixes$COL_END_YR
+  
